@@ -86,6 +86,13 @@ filteredFoods = foods.findAll {
             safeGetValue(it["C22:6n-3Dokosaheksaensyre"].value) == 0 &&
             !it["langualCodes"].contains("A0113") && // herbs or spices
             !it["langualCodes"].contains("A0857") && // herbs or spices
+            !it["langualCodes"].contains("A0134") && // Salt or salt substitute (US CFR)
+            !it["langualCodes"].contains("A0856") && // Seasoning or extract (EUROFIR)
+            !it["langualCodes"].contains("A0181") && // Food additive (US CFR)
+            !it["langualCodes"].contains("A0854") && // Baking ingredient (EUROFIR)
+            !it["langualCodes"].contains("A0133") && // Flavoring or seasoning (US CFR)
+            !it["langualCodes"].contains("A0853") && // Spice, condiment or other ingredient (EUROFIR)
+            !it["langualCodes"].contains("A0845") && // Coffee, tea, cocoa (EUROFIR)
             !it["langualCodes"].contains("A0261") && // egg
             !it["langualCodes"].contains("A0791") && // egg
             !it["langualCodes"].contains("C0241") && // egg whites, albumin
@@ -99,11 +106,9 @@ filteredFoods = foods.findAll {
             !it["langualCodes"].contains("H0165") && // gelatin added
             !it["langualCodes"].contains("H0157") && // lactose added
             !it["langualCodes"].contains("H0185") && // egg yolk added
-            !it["langualCodes"].contains("A0134") && // Salt or salt substitute (US CFR)
-            !it["langualCodes"].contains("A0856") && // Seasoning or extract (EUROFIR)
-            !it["langualCodes"].contains("A0181") && // Food additive (US CFR)
-            !it["langualCodes"].contains("A0854") && // Baking ingredient (EUROFIR)
-            !it["langualCodes"].contains("H0186") // egg added
+            !it["langualCodes"].contains("H0186") && // egg added
+            !(it["langualCodes"].contains("A0831") && it["langualCodes"].contains("J0116")) // dried pulses
+
 }
 
 // todo loop over data.lingual_codes, get all codes relating to lacto-ovo, honey etc
@@ -138,7 +143,7 @@ filteredFoods.each { food ->
         position = topLists[nutrient.name].findIndexOf { it -> it.id.equals(food.id) }
         if (position >= 0)
             sum += position
-        else sum += filteredFoods.size/2 // penalty for not having the nutrient
+        else sum += filteredFoods.size / 2 // penalty for not containing the nutrient
     }
     foodScores.put(food, sum)
 }
