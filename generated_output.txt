@@ -1,4 +1,4 @@
-Fant 493 veganske matvarer på matvaretabellen.no
+Fant 489 veganske matvarer på matvaretabellen.no
 
 
 Topp 15 matvarer med Vitamin A
@@ -21,8 +21,6 @@ Blomkål, bønner, erter, gulrot, fryst
 
 Topp 15 matvarer med Riboflavin
 **********************************
-Gjær, tørrgjær
-Gjær, pressgjær
 Knekkebrød, rug, tynt, type Rugsprø, Finncrisp
 Mandler
 Kornblanding, müsli med frukt, nøtter, søtet
@@ -36,11 +34,12 @@ Hveteflak ristet, med hvetekli, type All-bran Regular
 Hvetekli, ristet, type All-Bran plus
 Hvetekli
 Knekkebrød, rug, grovt
+Erter, tørre
+Tomatsuppe, pulver
 
 Topp 15 matvarer med Vitamin B6
 **********************************
 Hvetekim
-Gjær, tørrgjær
 Hvetekli
 Pistasjnøtter, saltet
 Hveteflak ristet, med hvetekli, type All-bran Regular
@@ -54,10 +53,10 @@ Sorghum
 Ris, polert, Jasminris, tørr
 Riskaker, lettsaltet
 Riskaker, usaltet
+Peanøttsmør
 
 Topp 15 matvarer med Kalsium
 **********************************
-Bakepulver
 Sesamfrø, med skall
 Sesampostei/-pasta, tahini
 Soyabønneost, Tofu
@@ -72,6 +71,7 @@ Soyamel
 Ris, polert, parboiled, langkornet, tørr
 Brønnkarse, rå
 Fiken, tørket
+Knekkebrød, ekstra fiber
 
 Topp 15 matvarer med Jern
 **********************************
@@ -95,9 +95,7 @@ Topp 15 matvarer med Sink
 **********************************
 Hvetekim
 Kakaopulver
-Gjær, pressgjær
 Klibrød, med hvetekli
-Gjær, tørrgjær
 Squashfrø, gresskarfrø
 Sesamfrø, med skall
 Hvetekli
@@ -108,6 +106,8 @@ Cashewnøtter, uten salt
 Hvetekli, ristet, type All-Bran plus
 Sesampostei/-pasta, tahini
 Erter, tørre
+Pekannøtter
+Soyaprotein, teksturert
 
 Topp 15 matvarer med Selen
 **********************************
@@ -136,46 +136,46 @@ Soyabønner, tørre
 Bønner, mung, tørre
 Erter, kikerter, tørre
 Pistasjnøtter, saltet
+Soyamel
 Bønner, røde, tørre
 Sesamfrø, med skall
 Hvetekli
 Brennesle, rå
 Hvetekli, ristet, type All-Bran plus
 Erter, tørre
-Sesamfrø, uten skall
-Bønner, brune, tørre
-Pekannøtter
-Grønnkål, rå
-Hasselnøtter
-Linser, grønne og brune, kokte med salt
-Mandler, skåldet
-Tomatpuré, hermetisk
-Mandler
-Soyamel
-Tomatpuré
-Squashfrø, gresskarfrø
-Svisker
-Kornblanding, med bær, type Go'dag Blåbærmüsli
-Kakaopulver
-Ris, villris, rå
 Linfrø, knuste
-Kornblanding, type 4-korn
-Bokhvete, hele korn
-Kornblanding, med frukt, type Go'dag Fruktmüsli
 Knekkebrød, rug, tynt, type Rugsprø, Finncrisp
-Hvetemel, sammalt, fint/grovt
+Sesamfrø, uten skall
 Soyaprotein, teksturert
-Hvete, helkorn
 Klibrød, med hvetekli
-Aprikos, tørket
-Kornblanding, med frukt og nøtter, type Go'dag Energimüsli
+Bønner, brune, tørre
 Bønner, hvite, tørre
 Hveteflak ristet, med hvetekli, type All-bran Regular
-Rugmel, sammalt
+Pekannøtter
 Peanøtter
 Knekkebrød, ekstra fiber
 Valnøtter
-Fullkornshvete, type Jippi Frokosttall
 Sesampostei/-pasta, tahini
+Grønnkål, rå
+Hasselnøtter
 Knekkebrød, rug, grovt
-Gjær, pressgjær
+Linser, grønne og brune, kokte med salt
+Macadamianøtter
+Mandler, skåldet
+Havreputer, type Havrefras
+Tomatpuré, hermetisk
+Sorghum
+Spinat, rå
+Mandler
+Tomatpuré
+Squashfrø, gresskarfrø
+Havrekli
+Svisker
+Bulgurgryn, tørr
+Pasta, fullkorn, tørr
+Kornblanding, med bær, type Go'dag Blåbærmüsli
+Ris, villris, rå
+Kakaopulver
+Flatbrød, hjemmebakt type, kjøpt
+Kokosmasse, usøtet
+Hvetebrikker, type Weetabix

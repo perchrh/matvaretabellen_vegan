@@ -88,6 +88,7 @@ filteredFoods = foods.findAll {
             !it["langualCodes"].contains("A0857") && // herbs or spices
             !it["langualCodes"].contains("A0261") && // egg
             !it["langualCodes"].contains("A0791") && // egg
+            !it["langualCodes"].contains("C0241") && // egg whites, albumin
             !it["langualCodes"].contains("A1114") && // honey
             !it["langualCodes"].contains("A1261") && // honey
             !it["langualCodes"].contains("C0188") && // honey
@@ -100,8 +101,12 @@ filteredFoods = foods.findAll {
             !it["langualCodes"].contains("H0185") && // egg yolk added
             !it["langualCodes"].contains("A0134") && // Salt or salt substitute (US CFR)
             !it["langualCodes"].contains("A0856") && // Seasoning or extract (EUROFIR)
+            !it["langualCodes"].contains("A0181") && // Food additive (US CFR)
+            !it["langualCodes"].contains("A0854") && // Baking ingredient (EUROFIR)
             !it["langualCodes"].contains("H0186") // egg added
 }
+
+// todo loop over data.lingual_codes, get all codes relating to lacto-ovo, honey etc
 
 filteredFoodsNames = filteredFoods.collect { it.name }
 println("Fant ${filteredFoods.size()} veganske matvarer på matvaretabellen.no\n")
@@ -119,7 +124,7 @@ cutoff = 15
 pointScoringNutrients.each { nutrient ->
     println("\nTopp $cutoff matvarer med ${nutrient.name}")
     println("**********************************")
-    topLists[nutrient.name][0..(cutoff-1)].each { food ->
+    topLists[nutrient.name][0..(cutoff - 1)].each { food ->
         println(food.name)
     }
 }
@@ -133,7 +138,7 @@ filteredFoods.each { food ->
         position = topLists[nutrient.name].findIndexOf { it -> it.id.equals(food.id) }
         if (position >= 0)
             sum += position
-        else sum += filteredFoods.size // penalty for not having the nutrient
+        else sum += filteredFoods.size/2 // penalty for not having the nutrient
     }
     foodScores.put(food, sum)
 }
