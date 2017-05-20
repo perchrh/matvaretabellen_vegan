@@ -1,4 +1,4 @@
-Fant 501 veganske matvarer på matvaretabellen.no
+Fant 493 veganske matvarer på matvaretabellen.no
 
 
 Topp 15 matvarer med Vitamin A
@@ -25,7 +25,6 @@ Gjær, tørrgjær
 Gjær, pressgjær
 Knekkebrød, rug, tynt, type Rugsprø, Finncrisp
 Mandler
-Buljongpulver
 Kornblanding, müsli med frukt, nøtter, søtet
 Tomater, soltørkede, tørr
 Hvetekim
@@ -36,6 +35,7 @@ Hirse, hele korn
 Hveteflak ristet, med hvetekli, type All-bran Regular
 Hvetekli, ristet, type All-Bran plus
 Hvetekli
+Knekkebrød, rug, grovt
 
 Topp 15 matvarer med Vitamin B6
 **********************************
@@ -57,7 +57,6 @@ Riskaker, usaltet
 
 Topp 15 matvarer med Kalsium
 **********************************
-Urtesalt
 Bakepulver
 Sesamfrø, med skall
 Sesampostei/-pasta, tahini
@@ -72,6 +71,7 @@ Mandler, skåldet
 Soyamel
 Ris, polert, parboiled, langkornet, tørr
 Brønnkarse, rå
+Fiken, tørket
 
 Topp 15 matvarer med Jern
 **********************************
@@ -127,7 +127,8 @@ Nudler av ris, tørr
 Pasta, fullkorn, tørr
 Soyabønner, tørre
 
-Topp 50 næringsrike veganske matvarer
+Topp 50 næringsrike veganske matvarer:
+**********************************
 Linser, grønne og brune, tørre
 Tomater, soltørkede, tørr
 Hvetekim
@@ -159,22 +160,22 @@ Kakaopulver
 Ris, villris, rå
 Linfrø, knuste
 Kornblanding, type 4-korn
-Kornblanding, med frukt, type Go'dag Fruktmüsli
 Bokhvete, hele korn
+Kornblanding, med frukt, type Go'dag Fruktmüsli
 Knekkebrød, rug, tynt, type Rugsprø, Finncrisp
 Hvetemel, sammalt, fint/grovt
-Hvete, helkorn
 Soyaprotein, teksturert
-Kornblanding, med frukt og nøtter, type Go'dag Energimüsli
+Hvete, helkorn
 Klibrød, med hvetekli
 Aprikos, tørket
+Kornblanding, med frukt og nøtter, type Go'dag Energimüsli
 Bønner, hvite, tørre
 Hveteflak ristet, med hvetekli, type All-bran Regular
 Rugmel, sammalt
 Peanøtter
 Knekkebrød, ekstra fiber
-Fullkornshvete, type Jippi Frokosttall
 Valnøtter
+Fullkornshvete, type Jippi Frokosttall
 Sesampostei/-pasta, tahini
 Knekkebrød, rug, grovt
 Gjær, pressgjær

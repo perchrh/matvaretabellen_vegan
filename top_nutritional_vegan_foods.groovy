@@ -98,6 +98,8 @@ filteredFoods = foods.findAll {
             !it["langualCodes"].contains("H0165") && // gelatin added
             !it["langualCodes"].contains("H0157") && // lactose added
             !it["langualCodes"].contains("H0185") && // egg yolk added
+            !it["langualCodes"].contains("A0134") && // Salt or salt substitute (US CFR)
+            !it["langualCodes"].contains("A0856") && // Seasoning or extract (EUROFIR)
             !it["langualCodes"].contains("H0186") // egg added
 }
 
@@ -122,7 +124,8 @@ pointScoringNutrients.each { nutrient ->
     }
 }
 
-println("\nTopp 50 næringsrike veganske matvarer")
+println("\nTopp 50 næringsrike veganske matvarer:")
+println("**********************************")
 foodScores = [:]
 filteredFoods.each { food ->
     sum = 0
