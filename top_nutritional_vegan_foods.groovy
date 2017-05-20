@@ -74,6 +74,7 @@ def interestingFoodGroups = [
 interestingFoodGroupDefinitions = data.foodgroups.findAll { interestingFoodGroups.contains(it.name) }
 interestingFoodGroupIds = interestingFoodGroupDefinitions.collect { it.id }
 filteredFoods = foods.findAll {
+
     interestingFoodGroupIds.contains(it.groupId) &&
             safeGetValue(it["Kolest"].value) == 0 &&
             safeGetValue(it["Vit B12"].value) == 0 &&
@@ -90,11 +91,18 @@ filteredFoods = foods.findAll {
             !it["langualCodes"].contains("A1114") && // honey
             !it["langualCodes"].contains("A1261") && // honey
             !it["langualCodes"].contains("C0188") && // honey
-            !it["langualCodes"].contains("H0149") // honey
+            !it["langualCodes"].contains("H0149") && // honey added
+            !it["langualCodes"].contains("H0153") && // seafood added
+            !it["langualCodes"].contains("H0184") && // milk added
+            !it["langualCodes"].contains("H0143") && // cheese added
+            !it["langualCodes"].contains("H0165") && // gelatin added
+            !it["langualCodes"].contains("H0157") && // lactose added
+            !it["langualCodes"].contains("H0185") && // egg yolk added
+            !it["langualCodes"].contains("H0186") // egg added
 }
 
 filteredFoodsNames = filteredFoods.collect { it.name }
-println("Fant ${filteredFoods.size()} veganske matvarer\n")
+println("Fant ${filteredFoods.size()} veganske matvarer på matvaretabellen.no\n")
 
 topLists = [:]
 nutrientsDefinitions.each { nutrient ->

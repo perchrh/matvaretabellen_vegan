@@ -1,3 +1,6 @@
+Fant 501 veganske matvarer på matvaretabellen.no
+
+
 Topp 15 matvarer med Vitamin A
 **********************************
 Gulrot, terninger, fryst
@@ -29,10 +32,10 @@ Hvetekim
 Soyaprotein, teksturert
 Mandler, skåldet
 Sopp, sjampinjong, hermetisk, avrent
-Fiskesuppe, Bergensk, pulver
 Hirse, hele korn
 Hveteflak ristet, med hvetekli, type All-bran Regular
 Hvetekli, ristet, type All-Bran plus
+Hvetekli
 
 Topp 15 matvarer med Vitamin B6
 **********************************
@@ -65,10 +68,10 @@ Linfrø, knuste
 Soyabønner, tørre
 Bønner, hvite, tørre
 Soyaprotein, teksturert
-Fiskesuppe, Bergensk, pulver
 Mandler, skåldet
 Soyamel
 Ris, polert, parboiled, langkornet, tørr
+Brønnkarse, rå
 
 Topp 15 matvarer med Jern
 **********************************
@@ -145,8 +148,8 @@ Grønnkål, rå
 Hasselnøtter
 Linser, grønne og brune, kokte med salt
 Mandler, skåldet
-Mandler
 Tomatpuré, hermetisk
+Mandler
 Soyamel
 Tomatpuré
 Squashfrø, gresskarfrø
@@ -163,8 +166,8 @@ Hvetemel, sammalt, fint/grovt
 Hvete, helkorn
 Soyaprotein, teksturert
 Kornblanding, med frukt og nøtter, type Go'dag Energimüsli
-Aprikos, tørket
 Klibrød, med hvetekli
+Aprikos, tørket
 Bønner, hvite, tørre
 Hveteflak ristet, med hvetekli, type All-bran Regular
 Rugmel, sammalt
