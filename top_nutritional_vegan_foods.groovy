@@ -106,8 +106,10 @@ filteredFoods = foods.findAll {
             !it["langualCodes"].contains("H0165") && // gelatin added
             !it["langualCodes"].contains("H0157") && // lactose added
             !it["langualCodes"].contains("H0185") && // egg yolk added
+            !it["langualCodes"].contains("H0205") && // egg white added
             !it["langualCodes"].contains("H0186") && // egg added
-            !(it["langualCodes"].contains("A0831") && it["langualCodes"].contains("J0116")) // dried pulses
+            !(it["langualCodes"].contains("A0831") && it["langualCodes"].contains("J0116")) && // dried pulses
+            !it.name.toLowerCase().contains("honning") // langualCodes missing on some products
 
 }
 
@@ -134,7 +136,8 @@ pointScoringNutrients.each { nutrient ->
     }
 }
 
-println("\nTopp 50 næringsrike veganske matvarer:")
+topCount = 100
+println("\nTopp ${topCount} næringsrike veganske matvarer:")
 println("**********************************")
 foodScores = [:]
 filteredFoods.each { food ->
@@ -149,6 +152,6 @@ filteredFoods.each { food ->
 }
 topScoringFoods = foodScores.sort { it.value }.collect { it.key }
 
-topScoringFoods[0..49].each {
+topScoringFoods[0..(topCount-1)].each {
     println("${it.name}")
 }

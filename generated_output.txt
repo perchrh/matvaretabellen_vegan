@@ -1,4 +1,4 @@
-Fant 469 veganske matvarer på matvaretabellen.no
+Fant 465 veganske matvarer på matvaretabellen.no
 
 
 Topp 15 matvarer med Vitamin A
@@ -127,7 +127,7 @@ Ris, hurtigris, 1 % salt, tørr
 Hvetemel, sammalt, fint/grovt
 Hvete, helkorn
 
-Topp 50 næringsrike veganske matvarer:
+Topp 100 næringsrike veganske matvarer:
 **********************************
 Tomater, soltørkede, tørr
 Hvetekim
@@ -168,14 +168,64 @@ Kornblanding, med bær, type Go'dag Blåbærmüsli
 Kokosmasse, usøtet
 Flatbrød, hjemmebakt type, kjøpt
 Ris, villris, rå
+Havremel
 Kornblanding, type 4-korn
 Hvetebrikker, type Weetabix
 Kornblanding, med frukt, type Go'dag Fruktmüsli
-Havremel
+Pumpernikkel, fullkornsbrød, ekstra grovt (75-100 %), kjøpt
 Peanøttsmør
 Bokhvete, hele korn
-Pumpernikkel, fullkornsbrød, ekstra grovt (75-100 %), kjøpt
 Knekkebrød, rug, type Husman
 Hvetemel, sammalt, fint/grovt
 Cashewnøtter, uten salt
 Hvete, helkorn
+Kornblanding, med frukt og nøtter, type Go'dag Energimüsli
+Aprikos, tørket
+Ris, polert, parboiled, langkornet, tørr
+Puffet havre, type Havrenøtter
+Hirse, hele korn
+Brønnkarse, rå
+Rugmel, sammalt
+Havregryn, lettkokte/store
+Havreputer, type Jippi Havreputer
+Havreflak, type Havreflakes
+Byggmel
+Paranøtter
+Fullkornshvete, type Jippi Frokosttall
+Kornblanding, müsli med frukt, nøtter, søtet
+Vårløk, rå
+Byggryn
+Flatbrød, kjøpt
+Puffet hvete, type Hvetenøtter
+Papaya, tørket
+Daddel, tørket
+Kastanjer, ristede
+Spinat, fryst, rå
+Mangold, sølvbete, rå
+Kornblanding, type Vita Hjertego' Flerkornsblanding med Blåbær og Tranebær
+Riskaker, lettsaltet
+Tacotubs, skjell, type Santa Maria
+Chapatti, brød, sammalt mel
+Riskaker, usaltet
+Potetchips, stekt i peanøttolje
+Brød, halvgrovt (25-50 %), kjøpt, type Jegerbrød
+Asparges, rå
+Bokhvetemel, lyst
+Fiken, tørket
+Brød, ekstra grovt (75-100 %), kjøpt, type Havrebrød
+Soyapølse, hermetisk
+Erter, kikerter, hermetiske
+Ris, upolert, naturris, langkornet, tørr
+Feltsalat
+Grovbakstmel, 40 % sammalt
+Ruccolasalat, rå
+Søtpotet, kokt u/salt, med skall
+Brød, 75 % sammalt mel, vann, hjemmebakt
+Pinjekjerner
+Bønner, grønne, fryst
+Pak-choi, bok choy, kål, rå
+Brød, 2/3 sammalt mel, vann, hjemmebakt
+Bønner, brune, kokt
+Potetskruer, potetringer
+Potetchips, mindre fett
+Tomatsuppe, pulver
