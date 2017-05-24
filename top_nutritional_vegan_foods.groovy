@@ -1,6 +1,12 @@
 static def safeGetValue(rawString) {
-    if (rawString.equals("M")) 0
+    if (rawString.equals("M")) new Double(0)
     else Double.parseDouble(rawString)
+}
+
+static def getRoundedValue(food, nutrient) {
+    def decimals = Integer.parseInt(nutrient.decimals)
+    def roundedAmount = safeGetValue(food[nutrient.id].value).round(decimals)
+    "${roundedAmount} ${nutrient.unit}"
 }
 
 def slurper = new groovy.json.JsonSlurper()
@@ -133,7 +139,7 @@ pointScoringNutrients.each { nutrient ->
     println("**********************************")
     for (position in 0..(cutoff - 1)) {
         food = topLists[nutrient.name][position]
-        println("${position+1}. ${food.name} - ${Double.parseDouble(food[nutrient.id].value).round(2)} ${nutrient.unit} per 100 g spiselig vare")
+        println("${position + 1}. ${food.name} - ${getRoundedValue(food, nutrient)} per 100 g spiselig vare")
     }
 }
 
@@ -147,7 +153,7 @@ filteredFoods.each { food ->
         position = topLists[nutrient.name].findIndexOf { it -> it.id.equals(food.id) }
         if (position >= 0)
             sum += position
-        else sum += filteredFoods.size / 2 // penalty for not containing the nutrient
+        else sum += topLists[nutrient.name].size() +1 // logically after last element in list
     }
     foodScores.put(food, sum)
 }
@@ -155,5 +161,7 @@ topScoringFoods = foodScores.sort { it.value }.collect { it.key }
 
 for (position in 0..(topCount - 1)) {
     food = topScoringFoods[position]
-    println("${position+1}. ${food.name}")
+    nutrientSummary = pointScoringNutrients.collectEntries { [(it.id): getRoundedValue(food, it)] }
+
+    println("${position + 1}. ${food.name}\n   ${nutrientSummary}")
 }
