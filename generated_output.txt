@@ -3,229 +3,229 @@ Fant 465 veganske matvarer på matvaretabellen.no
 
 Topp 15 matvarer med Vitamin A
 **********************************
-Gulrot, terninger, fryst
-Gulrot, babygulrot, fryst
-Gulrot, baby, importert, rå
-Søtpotet, kokt u/salt, med skall
-Papaya, tørket
-Søtpotet, rå
-Gulrot, kokt
-Gulrot, knaskegulrot, norsk, rå
-Grønnkål, rå
-Gulrot, norsk, rå
-Gulrot, uspesifisert, rå
-Spinat, rå
-Erter, gulrot, fryst
-Gulrot, importert, rå
-Blomkål, bønner, erter, gulrot, fryst
+1. Gulrot, terninger, fryst - 716.67 RAE per 100 g spiselig vare
+2. Gulrot, babygulrot, fryst - 716.67 RAE per 100 g spiselig vare
+3. Gulrot, baby, importert, rå - 650.0 RAE per 100 g spiselig vare
+4. Søtpotet, kokt u/salt, med skall - 585.82 RAE per 100 g spiselig vare
+5. Papaya, tørket - 566.67 RAE per 100 g spiselig vare
+6. Søtpotet, rå - 550.68 RAE per 100 g spiselig vare
+7. Gulrot, kokt - 510.0 RAE per 100 g spiselig vare
+8. Gulrot, knaskegulrot, norsk, rå - 491.67 RAE per 100 g spiselig vare
+9. Grønnkål, rå - 445.83 RAE per 100 g spiselig vare
+10. Gulrot, norsk, rå - 437.5 RAE per 100 g spiselig vare
+11. Gulrot, uspesifisert, rå - 437.5 RAE per 100 g spiselig vare
+12. Spinat, rå - 378.33 RAE per 100 g spiselig vare
+13. Erter, gulrot, fryst - 345.42 RAE per 100 g spiselig vare
+14. Gulrot, importert, rå - 329.17 RAE per 100 g spiselig vare
+15. Blomkål, bønner, erter, gulrot, fryst - 306.42 RAE per 100 g spiselig vare
 
 Topp 15 matvarer med Riboflavin
 **********************************
-Knekkebrød, rug, tynt, type Rugsprø, Finncrisp
-Mandler
-Kornblanding, müsli med frukt, nøtter, søtet
-Tomater, soltørkede, tørr
-Hvetekim
-Soyaprotein, teksturert
-Mandler, skåldet
-Sopp, sjampinjong, hermetisk, avrent
-Hirse, hele korn
-Hveteflak ristet, med hvetekli, type All-bran Regular
-Hvetekli, ristet, type All-Bran plus
-Hvetekli
-Knekkebrød, rug, grovt
-Tomatsuppe, pulver
-Ris, villris, rå
+1. Knekkebrød, rug, tynt, type Rugsprø, Finncrisp - 1.1 mg per 100 g spiselig vare
+2. Mandler - 1.01 mg per 100 g spiselig vare
+3. Kornblanding, müsli med frukt, nøtter, søtet - 0.59 mg per 100 g spiselig vare
+4. Tomater, soltørkede, tørr - 0.49 mg per 100 g spiselig vare
+5. Hvetekim - 0.44 mg per 100 g spiselig vare
+6. Soyaprotein, teksturert - 0.42 mg per 100 g spiselig vare
+7. Mandler, skåldet - 0.41 mg per 100 g spiselig vare
+8. Sopp, sjampinjong, hermetisk, avrent - 0.4 mg per 100 g spiselig vare
+9. Hirse, hele korn - 0.38 mg per 100 g spiselig vare
+10. Hveteflak ristet, med hvetekli, type All-bran Regular - 0.33 mg per 100 g spiselig vare
+11. Hvetekli, ristet, type All-Bran plus - 0.33 mg per 100 g spiselig vare
+12. Hvetekli - 0.32 mg per 100 g spiselig vare
+13. Knekkebrød, rug, grovt - 0.3 mg per 100 g spiselig vare
+14. Tomatsuppe, pulver - 0.3 mg per 100 g spiselig vare
+15. Ris, villris, rå - 0.26 mg per 100 g spiselig vare
 
 Topp 15 matvarer med Vitamin B6
 **********************************
-Hvetekim
-Hvetekli
-Pistasjnøtter, saltet
-Hveteflak ristet, med hvetekli, type All-bran Regular
-Hvetekli, ristet, type All-Bran plus
-Bønner, grønne, fryst
-Sesamfrø, med skall
-Sesampostei/-pasta, tahini
-Hirse, hele korn
-Sorghum
-Ris, polert, Jasminris, tørr
-Riskaker, lettsaltet
-Riskaker, usaltet
-Peanøttsmør
-Hasselnøtter
+1. Hvetekim - 1.82 mg per 100 g spiselig vare
+2. Hvetekli - 1.35 mg per 100 g spiselig vare
+3. Pistasjnøtter, saltet - 1.12 mg per 100 g spiselig vare
+4. Hveteflak ristet, med hvetekli, type All-bran Regular - 1.06 mg per 100 g spiselig vare
+5. Hvetekli, ristet, type All-Bran plus - 1.06 mg per 100 g spiselig vare
+6. Bønner, grønne, fryst - 0.98 mg per 100 g spiselig vare
+7. Sesamfrø, med skall - 0.79 mg per 100 g spiselig vare
+8. Sesampostei/-pasta, tahini - 0.76 mg per 100 g spiselig vare
+9. Hirse, hele korn - 0.75 mg per 100 g spiselig vare
+10. Sorghum - 0.75 mg per 100 g spiselig vare
+11. Ris, polert, Jasminris, tørr - 0.75 mg per 100 g spiselig vare
+12. Riskaker, lettsaltet - 0.61 mg per 100 g spiselig vare
+13. Riskaker, usaltet - 0.61 mg per 100 g spiselig vare
+14. Peanøttsmør - 0.58 mg per 100 g spiselig vare
+15. Hasselnøtter - 0.56 mg per 100 g spiselig vare
 
 Topp 15 matvarer med Kalsium
 **********************************
-Sesamfrø, med skall
-Sesampostei/-pasta, tahini
-Soyabønneost, Tofu
-Brennesle, rå
-Mandler
-Linfrø, knuste
-Soyaprotein, teksturert
-Mandler, skåldet
-Soyamel
-Ris, polert, parboiled, langkornet, tørr
-Brønnkarse, rå
-Fiken, tørket
-Knekkebrød, ekstra fiber
-Ruccolasalat, rå
-Paranøtter
+1. Sesamfrø, med skall - 975.0 mg per 100 g spiselig vare
+2. Sesampostei/-pasta, tahini - 680.0 mg per 100 g spiselig vare
+3. Soyabønneost, Tofu - 540.0 mg per 100 g spiselig vare
+4. Brennesle, rå - 490.0 mg per 100 g spiselig vare
+5. Mandler - 264.0 mg per 100 g spiselig vare
+6. Linfrø, knuste - 255.0 mg per 100 g spiselig vare
+7. Soyaprotein, teksturert - 240.0 mg per 100 g spiselig vare
+8. Mandler, skåldet - 236.0 mg per 100 g spiselig vare
+9. Soyamel - 182.0 mg per 100 g spiselig vare
+10. Ris, polert, parboiled, langkornet, tørr - 178.0 mg per 100 g spiselig vare
+11. Brønnkarse, rå - 170.0 mg per 100 g spiselig vare
+12. Fiken, tørket - 162.0 mg per 100 g spiselig vare
+13. Knekkebrød, ekstra fiber - 160.0 mg per 100 g spiselig vare
+14. Ruccolasalat, rå - 160.0 mg per 100 g spiselig vare
+15. Paranøtter - 160.0 mg per 100 g spiselig vare
 
 Topp 15 matvarer med Jern
 **********************************
-Sesamfrø, med skall
-Hvetekli
-Sesampostei/-pasta, tahini
-Brennesle, rå
-Hveteflak ristet, med hvetekli, type All-bran Regular
-Hvetekli, ristet, type All-Bran plus
-Tomater, soltørkede, tørr
-Soyaprotein, teksturert
-Squashfrø, gresskarfrø
-Klibrød, med hvetekli
-Soyamel
-Hvetekim
-Cashewnøtter, uten salt
-Sesamfrø, uten skall
-Linfrø, knuste
+1. Sesamfrø, med skall - 14.55 mg per 100 g spiselig vare
+2. Hvetekli - 11.0 mg per 100 g spiselig vare
+3. Sesampostei/-pasta, tahini - 10.6 mg per 100 g spiselig vare
+4. Brennesle, rå - 10.0 mg per 100 g spiselig vare
+5. Hveteflak ristet, med hvetekli, type All-bran Regular - 9.6 mg per 100 g spiselig vare
+6. Hvetekli, ristet, type All-Bran plus - 9.6 mg per 100 g spiselig vare
+7. Tomater, soltørkede, tørr - 9.09 mg per 100 g spiselig vare
+8. Soyaprotein, teksturert - 9.0 mg per 100 g spiselig vare
+9. Squashfrø, gresskarfrø - 8.82 mg per 100 g spiselig vare
+10. Klibrød, med hvetekli - 8.8 mg per 100 g spiselig vare
+11. Soyamel - 8.4 mg per 100 g spiselig vare
+12. Hvetekim - 8.2 mg per 100 g spiselig vare
+13. Cashewnøtter, uten salt - 6.68 mg per 100 g spiselig vare
+14. Sesamfrø, uten skall - 6.36 mg per 100 g spiselig vare
+15. Linfrø, knuste - 5.73 mg per 100 g spiselig vare
 
 Topp 15 matvarer med Sink
 **********************************
-Hvetekim
-Klibrød, med hvetekli
-Squashfrø, gresskarfrø
-Sesamfrø, med skall
-Hvetekli
-Sesamfrø, uten skall
-Pinjekjerner
-Ris, villris, rå
-Cashewnøtter, uten salt
-Hvetekli, ristet, type All-Bran plus
-Sesampostei/-pasta, tahini
-Pekannøtter
-Soyaprotein, teksturert
-Linfrø, knuste
-Soyamel
+1. Hvetekim - 17.8 mg per 100 g spiselig vare
+2. Klibrød, med hvetekli - 8.0 mg per 100 g spiselig vare
+3. Squashfrø, gresskarfrø - 7.81 mg per 100 g spiselig vare
+4. Sesamfrø, med skall - 7.75 mg per 100 g spiselig vare
+5. Hvetekli - 7.3 mg per 100 g spiselig vare
+6. Sesamfrø, uten skall - 6.73 mg per 100 g spiselig vare
+7. Pinjekjerner - 6.5 mg per 100 g spiselig vare
+8. Ris, villris, rå - 5.96 mg per 100 g spiselig vare
+9. Cashewnøtter, uten salt - 5.78 mg per 100 g spiselig vare
+10. Hvetekli, ristet, type All-Bran plus - 5.6 mg per 100 g spiselig vare
+11. Sesampostei/-pasta, tahini - 5.4 mg per 100 g spiselig vare
+12. Pekannøtter - 4.53 mg per 100 g spiselig vare
+13. Soyaprotein, teksturert - 4.4 mg per 100 g spiselig vare
+14. Linfrø, knuste - 4.34 mg per 100 g spiselig vare
+15. Soyamel - 4.1 mg per 100 g spiselig vare
 
 Topp 15 matvarer med Selen
 **********************************
-Paranøtter
-Knekkebrød, rug, tynt, type Rugsprø, Finncrisp
-Riskaker, lettsaltet
-Riskaker, usaltet
-Linser, røde, hermetiske
-Erter, kikerter, hermetiske
-Kokosmasse, usøtet
-Linser, grønne, hermetiske
-Nudler av ris, tørr
-Pasta, fullkorn, tørr
-Ris, upolert, naturris, langkornet, tørr
-Ris, polert, Basmatiris, tørr
-Ris, hurtigris, 1 % salt, tørr
-Hvetemel, sammalt, fint/grovt
-Hvete, helkorn
+1. Paranøtter - 1090.0 µg per 100 g spiselig vare
+2. Knekkebrød, rug, tynt, type Rugsprø, Finncrisp - 24.2 µg per 100 g spiselig vare
+3. Riskaker, lettsaltet - 22.9 µg per 100 g spiselig vare
+4. Riskaker, usaltet - 22.9 µg per 100 g spiselig vare
+5. Linser, røde, hermetiske - 20.5 µg per 100 g spiselig vare
+6. Erter, kikerter, hermetiske - 19.8 µg per 100 g spiselig vare
+7. Kokosmasse, usøtet - 18.5 µg per 100 g spiselig vare
+8. Linser, grønne, hermetiske - 17.5 µg per 100 g spiselig vare
+9. Nudler av ris, tørr - 15.1 µg per 100 g spiselig vare
+10. Pasta, fullkorn, tørr - 15.0 µg per 100 g spiselig vare
+11. Ris, upolert, naturris, langkornet, tørr - 13.85 µg per 100 g spiselig vare
+12. Ris, polert, Basmatiris, tørr - 13.5 µg per 100 g spiselig vare
+13. Ris, hurtigris, 1 % salt, tørr - 13.0 µg per 100 g spiselig vare
+14. Hvetemel, sammalt, fint/grovt - 10.0 µg per 100 g spiselig vare
+15. Hvete, helkorn - 10.0 µg per 100 g spiselig vare
 
 Topp 100 næringsrike veganske matvarer:
 **********************************
-Tomater, soltørkede, tørr
-Hvetekim
-Pistasjnøtter, saltet
-Soyamel
-Sesamfrø, med skall
-Brennesle, rå
-Hvetekli
-Hvetekli, ristet, type All-Bran plus
-Linfrø, knuste
-Knekkebrød, rug, tynt, type Rugsprø, Finncrisp
-Sesamfrø, uten skall
-Klibrød, med hvetekli
-Soyaprotein, teksturert
-Peanøtter
-Pekannøtter
-Hveteflak ristet, med hvetekli, type All-bran Regular
-Knekkebrød, ekstra fiber
-Valnøtter
-Grønnkål, rå
-Hasselnøtter
-Knekkebrød, rug, grovt
-Sesampostei/-pasta, tahini
-Tomatpuré, hermetisk
-Macadamianøtter
-Havreputer, type Havrefras
-Spinat, rå
-Sorghum
-Tomatpuré
-Mandler, skåldet
-Mandler
-Havrekli
-Squashfrø, gresskarfrø
-Svisker
-Bulgurgryn, tørr
-Pasta, fullkorn, tørr
-Kornblanding, med bær, type Go'dag Blåbærmüsli
-Kokosmasse, usøtet
-Flatbrød, hjemmebakt type, kjøpt
-Ris, villris, rå
-Havremel
-Kornblanding, type 4-korn
-Hvetebrikker, type Weetabix
-Kornblanding, med frukt, type Go'dag Fruktmüsli
-Pumpernikkel, fullkornsbrød, ekstra grovt (75-100 %), kjøpt
-Peanøttsmør
-Bokhvete, hele korn
-Knekkebrød, rug, type Husman
-Hvetemel, sammalt, fint/grovt
-Cashewnøtter, uten salt
-Hvete, helkorn
-Kornblanding, med frukt og nøtter, type Go'dag Energimüsli
-Aprikos, tørket
-Ris, polert, parboiled, langkornet, tørr
-Puffet havre, type Havrenøtter
-Hirse, hele korn
-Brønnkarse, rå
-Rugmel, sammalt
-Havregryn, lettkokte/store
-Havreputer, type Jippi Havreputer
-Havreflak, type Havreflakes
-Byggmel
-Paranøtter
-Fullkornshvete, type Jippi Frokosttall
-Kornblanding, müsli med frukt, nøtter, søtet
-Vårløk, rå
-Byggryn
-Flatbrød, kjøpt
-Puffet hvete, type Hvetenøtter
-Papaya, tørket
-Daddel, tørket
-Kastanjer, ristede
-Spinat, fryst, rå
-Mangold, sølvbete, rå
-Kornblanding, type Vita Hjertego' Flerkornsblanding med Blåbær og Tranebær
-Riskaker, lettsaltet
-Tacotubs, skjell, type Santa Maria
-Chapatti, brød, sammalt mel
-Riskaker, usaltet
-Potetchips, stekt i peanøttolje
-Brød, halvgrovt (25-50 %), kjøpt, type Jegerbrød
-Asparges, rå
-Bokhvetemel, lyst
-Fiken, tørket
-Brød, ekstra grovt (75-100 %), kjøpt, type Havrebrød
-Soyapølse, hermetisk
-Erter, kikerter, hermetiske
-Ris, upolert, naturris, langkornet, tørr
-Feltsalat
-Grovbakstmel, 40 % sammalt
-Ruccolasalat, rå
-Søtpotet, kokt u/salt, med skall
-Brød, 75 % sammalt mel, vann, hjemmebakt
-Pinjekjerner
-Bønner, grønne, fryst
-Pak-choi, bok choy, kål, rå
-Brød, 2/3 sammalt mel, vann, hjemmebakt
-Bønner, brune, kokt
-Potetskruer, potetringer
-Potetchips, mindre fett
-Tomatsuppe, pulver
+1. Tomater, soltørkede, tørr
+2. Hvetekim
+3. Pistasjnøtter, saltet
+4. Soyamel
+5. Sesamfrø, med skall
+6. Brennesle, rå
+7. Hvetekli
+8. Hvetekli, ristet, type All-Bran plus
+9. Linfrø, knuste
+10. Knekkebrød, rug, tynt, type Rugsprø, Finncrisp
+11. Sesamfrø, uten skall
+12. Klibrød, med hvetekli
+13. Soyaprotein, teksturert
+14. Peanøtter
+15. Pekannøtter
+16. Hveteflak ristet, med hvetekli, type All-bran Regular
+17. Knekkebrød, ekstra fiber
+18. Valnøtter
+19. Grønnkål, rå
+20. Hasselnøtter
+21. Knekkebrød, rug, grovt
+22. Sesampostei/-pasta, tahini
+23. Tomatpuré, hermetisk
+24. Macadamianøtter
+25. Havreputer, type Havrefras
+26. Spinat, rå
+27. Sorghum
+28. Tomatpuré
+29. Mandler, skåldet
+30. Mandler
+31. Havrekli
+32. Squashfrø, gresskarfrø
+33. Svisker
+34. Bulgurgryn, tørr
+35. Pasta, fullkorn, tørr
+36. Kornblanding, med bær, type Go'dag Blåbærmüsli
+37. Kokosmasse, usøtet
+38. Flatbrød, hjemmebakt type, kjøpt
+39. Ris, villris, rå
+40. Havremel
+41. Kornblanding, type 4-korn
+42. Hvetebrikker, type Weetabix
+43. Kornblanding, med frukt, type Go'dag Fruktmüsli
+44. Pumpernikkel, fullkornsbrød, ekstra grovt (75-100 %), kjøpt
+45. Peanøttsmør
+46. Bokhvete, hele korn
+47. Knekkebrød, rug, type Husman
+48. Hvetemel, sammalt, fint/grovt
+49. Cashewnøtter, uten salt
+50. Hvete, helkorn
+51. Kornblanding, med frukt og nøtter, type Go'dag Energimüsli
+52. Aprikos, tørket
+53. Ris, polert, parboiled, langkornet, tørr
+54. Puffet havre, type Havrenøtter
+55. Hirse, hele korn
+56. Brønnkarse, rå
+57. Rugmel, sammalt
+58. Havregryn, lettkokte/store
+59. Havreputer, type Jippi Havreputer
+60. Havreflak, type Havreflakes
+61. Byggmel
+62. Paranøtter
+63. Fullkornshvete, type Jippi Frokosttall
+64. Kornblanding, müsli med frukt, nøtter, søtet
+65. Vårløk, rå
+66. Byggryn
+67. Flatbrød, kjøpt
+68. Puffet hvete, type Hvetenøtter
+69. Papaya, tørket
+70. Daddel, tørket
+71. Kastanjer, ristede
+72. Spinat, fryst, rå
+73. Mangold, sølvbete, rå
+74. Kornblanding, type Vita Hjertego' Flerkornsblanding med Blåbær og Tranebær
+75. Riskaker, lettsaltet
+76. Tacotubs, skjell, type Santa Maria
+77. Chapatti, brød, sammalt mel
+78. Riskaker, usaltet
+79. Potetchips, stekt i peanøttolje
+80. Brød, halvgrovt (25-50 %), kjøpt, type Jegerbrød
+81. Asparges, rå
+82. Bokhvetemel, lyst
+83. Fiken, tørket
+84. Brød, ekstra grovt (75-100 %), kjøpt, type Havrebrød
+85. Soyapølse, hermetisk
+86. Erter, kikerter, hermetiske
+87. Ris, upolert, naturris, langkornet, tørr
+88. Feltsalat
+89. Grovbakstmel, 40 % sammalt
+90. Ruccolasalat, rå
+91. Søtpotet, kokt u/salt, med skall
+92. Brød, 75 % sammalt mel, vann, hjemmebakt
+93. Pinjekjerner
+94. Bønner, grønne, fryst
+95. Pak-choi, bok choy, kål, rå
+96. Brød, 2/3 sammalt mel, vann, hjemmebakt
+97. Bønner, brune, kokt
+98. Potetskruer, potetringer
+99. Potetchips, mindre fett
+100. Tomatsuppe, pulver

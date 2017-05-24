@@ -131,8 +131,9 @@ cutoff = 15
 pointScoringNutrients.each { nutrient ->
     println("\nTopp $cutoff matvarer med ${nutrient.name}")
     println("**********************************")
-    topLists[nutrient.name][0..(cutoff - 1)].each { food ->
-        println(food.name)
+    for (position in 0..(cutoff - 1)) {
+        food = topLists[nutrient.name][position]
+        println("${position+1}. ${food.name} - ${Double.parseDouble(food[nutrient.id].value).round(2)} ${nutrient.unit} per 100 g spiselig vare")
     }
 }
 
@@ -152,6 +153,7 @@ filteredFoods.each { food ->
 }
 topScoringFoods = foodScores.sort { it.value }.collect { it.key }
 
-topScoringFoods[0..(topCount-1)].each {
-    println("${it.name}")
+for (position in 0..(topCount - 1)) {
+    food = topScoringFoods[position]
+    println("${position+1}. ${food.name}")
 }
