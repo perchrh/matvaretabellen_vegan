@@ -83,10 +83,8 @@ filteredFoods = foods.findAll {
 
     interestingFoodGroupIds.contains(it.groupId) &&
             safeGetValue(it["Kolest"].value) == 0 &&
-            safeGetValue(it["Vit B12"].value) == 0 &&
             safeGetValue(it["Retinol"].value) == 0 &&
             safeGetValue(it["Trans"].value) == 0 &&
-            safeGetValue(it["Vit D"].value) == 0 &&
             safeGetValue(it["C20:5n-3Eikosapentaensyre"].value) == 0 &&
             safeGetValue(it["C22:5n-3Dokosapentaensyre"].value) == 0 &&
             safeGetValue(it["C22:6n-3Dokosaheksaensyre"].value) == 0 &&
@@ -114,7 +112,6 @@ filteredFoods = foods.findAll {
             !it["langualCodes"].contains("H0185") && // egg yolk added
             !it["langualCodes"].contains("H0205") && // egg white added
             !it["langualCodes"].contains("H0186") && // egg added
-            !(it["langualCodes"].contains("A0831") && it["langualCodes"].contains("J0116")) && // dried pulses
             !it.name.toLowerCase().contains("honning") // langualCodes missing on some products
 
 }
