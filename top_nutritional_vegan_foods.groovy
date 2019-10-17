@@ -112,6 +112,8 @@ filteredFoods = foods.findAll {
             !it["langualCodes"].contains("H0185") && // egg yolk added
             !it["langualCodes"].contains("H0205") && // egg white added
             !it["langualCodes"].contains("H0186") && // egg added
+            !(it["langualCodes"].contains("A0831") /* pulse product */ && it["langualCodes"].contains("J0116") /* dried */  && !it["langualCodes"].contains("C0155") /* seeds */ ) &&
+
             !it.name.toLowerCase().contains("honning") // langualCodes missing on some products
 
 }
