@@ -1592,6 +1592,14 @@
         "text": "Beregnet ut fra prosentvis innhold av tørrstoff i lignende matvare."
     }
      ,     {
+        "id": "90",
+        "text": "Aske beregnet ved differanse"
+    }
+     ,     {
+        "id": "91",
+        "text": "Vann beregnet ved differanse"
+    }
+     ,     {
         "id": "100",
         "text": "Data levert av industrien 1992-2000, uspesifisert grunnlag."
     }
@@ -1688,6 +1696,22 @@
         "text": "Data levert av industrien til Matvaretabellen 2016, beregnet verdi"
     }
      ,     {
+        "id": "110a",
+        "text": "Data levert av industrien til Matvaretabellen 2017, uspesifisert grunnlag/kontrollert verdi."
+    }
+     ,     {
+        "id": "110b",
+        "text": "Data levert av industrien til Matvaretabellen 2017, analysert verdi"
+    }
+     ,     {
+        "id": "111a",
+        "text": "Data levert av industrien til Matvaretabellen 2018, uspesifisert grunnlag/kontrollert verdi."
+    }
+     ,     {
+        "id": "111b",
+        "text": "Data levert av industrien til Matvaretabellen 2018, analysert verdi"
+    }
+     ,     {
         "id": "120",
         "text": "Produktinformasjon, verdi hentet fra næringsdeklarasjon/produsentens nettside, 2009/2010."
     }
@@ -1698,6 +1722,14 @@
      ,     {
         "id": "122",
         "text": "Produktinformasjon, verdi hentet fra næringsdeklarasjon/produsentenes nettside, 2015."
+    }
+     ,     {
+        "id": "123",
+        "text": "Produktinformasjon, verdi hentet fra næringsdeklarasjon/produsentenes nettside, 2017."
+    }
+     ,     {
+        "id": "124",
+        "text": "Produktinformasjon, verdi hentet fra næringsdeklarasjon/produsentenes nettside, 2018."
     }
      ,     {
         "id": "130",
@@ -1726,6 +1758,14 @@
      ,     {
         "id": "136",
         "text": "Beregnet verdi fra intern oppskrift (til Matvaretabellen 2016)."
+    }
+     ,     {
+        "id": "137",
+        "text": "Beregnet verdi fra intern oppskrift (til Matvaretabellen 2017)."
+    }
+     ,     {
+        "id": "138",
+        "text": "Beregnet verdi fra intern oppskrift (til Matvaretabellen 2018)."
     }
      ,     {
         "id": "200",
@@ -1838,6 +1878,38 @@
      ,     {
         "id": "223b",
         "text": "Beregnet gjennomsnitt fra referanse 223a: Mattilsynet. Analyseprosjekt 2015-2016. Fiskeprodukter. Publisert rapport (2016): \"Næringsstoff- og tungmetallanalyser av fiskeprodukter\". http://www.matportalen.no/verktoy/tilsynsresultater/article45159.ece/BINARY/Mattilsynet%20rapport:%20N%C3%A6ringsstoff%20og%20tungmetallanalyser%20av%20fiskeprodukter%202016"
+    }
+     ,     {
+        "id": "224a",
+        "text": "Mattilsynet. Analyseprosjekt 2016-2017. Egg og kylling. Publisert rapport (2017): \"Analyse av egg og kylling. Næringsstoff- og miljøgiftanalyser\". https://www.mattilsynet.no/mat_og_vann/produksjon_av_mat/egg_og_eggprodukter/rapport_naeringsstoffer_og_miljogifter_i_egg_og_kylling_2016.25605/binary/Rapport:%20N%C3%A6ringsstoffer%20og%20milj%C3%B8gifter%20i%20egg%20og%20kylli ng,%202016"
+    }
+     ,     {
+        "id": "224b",
+        "text": "Beregnet gjennomsnitt fra referanse 224a: Mattilsynet. Analyseprosjekt 2016-2017. Egg og kylling. Publisert rapport (2017): \"Analyse av egg og kylling. Næringsstoff- og miljøgiftanalyser\". https://www.mattilsynet.no/mat_og_vann/produksjon_av_mat/egg_og_eggprodukter/rapport_naeringsstoffer_og_miljogifter_i_egg_og_kylling_2016.25605/binary/Rapport:%20N%C3%A6ringsstoffer%20og%20milj%C3%B8gifter%20i%20egg%20og%20kylli ng,%202016"
+    }
+     ,     {
+        "id": "224c",
+        "text": "Beregnet verdi fra referanse 224a: Mattilsynet. Analyseprosjekt 2016-2017. Egg og kylling. Publisert rapport (2017): \"Analyse av egg og kylling. Næringsstoff- og miljøgiftanalyser\". https://www.mattilsynet.no/mat_og_vann/produksjon_av_mat/egg_og_eggprodukter/rapport_naeringsstoffer_og_miljogifter_i_egg_og_kylling_2016.25605/binary/Rapport:%20N%C3%A6ringsstoffer%20og%20milj%C3%B8gifter%20i%20egg%20og%20kylli ng,%202016"
+    }
+     ,     {
+        "id": "225a",
+        "text": "Mattilsynet. Analyseprosjekt 2017-2018. Kornvarer. Publisert rapport (2018): «Næringstoff og tungmetaller, akrylamid og mykotoksin i brød, knekkebrød og frokostblandinger». http://www.matportalen.no/matvaregrupper/tema/kornvarer/article50556.ece/BINARY/Rapport%202017:%20Analyse%20av%20metaller%20akrylamid%20og%20mykotoksin%20i%20br%C3%B8d%20knekkebr%C3%B8d%20og%20frokostblandinger"
+    }
+     ,     {
+        "id": "225b",
+        "text": "Beregnet gjennomsnitt fra referanse 225a: Mattilsynet. Analyseprosjekt 2017-2018. Kornvarer. Publisert rapport (2018): «Næringstoff og tungmetaller, akrylamid og mykotoksin i brød, knekkebrød og frokostblandinger». http://www.matportalen.no/matvaregrupper/tema/kornvarer/article50556.ece/BINARY/Rapport%202017:%20Analyse%20av%20metaller%20akrylamid%20og%20mykotoksin%20i%20br%C3%B8d%20knekkebr%C3%B8d%20og%20frokostblandinger"
+    }
+     ,     {
+        "id": "226",
+        "text": "Mattilsynet. Analyseprosjekt 2017-2018. Risprodukter. Internt notat."
+    }
+     ,     {
+        "id": "227a",
+        "text": "Mattilsynet. Analyseprosjekt 2017-2018. Kjøttpålegg. Internt notat."
+    }
+     ,     {
+        "id": "227b",
+        "text": "Beregnet gjennomsnitt fra referanse 227a: Mattilsynet. Analyseprosjekt 2017-2018. Kjøttpålegg. Internt notat"
     }
      ,     {
         "id": "280",
@@ -1972,6 +2044,18 @@
         "text": "Triumf, EC., Purchas, RW., Mielnik, M., Maehre, HK., Elvevoll, E., Slinde, E., Egelandsdal, B. Composition and some quality characteristics of the longissimus muscle of reindeer in Norway compared to farmed New Zealand red deer. Meat Science 90(2012), 122-129."
     }
      ,     {
+        "id": "323",
+        "text": "Egelandsdal, B. et.al (2017). Identifisering av det sunneste storfekjøttet (2013-2017)."
+    }
+     ,     {
+        "id": "324",
+        "text": "Animalia. Utredningsprosjekt 2017. Analyser av 72 svinelever (samleprøver av totalt 308 svinelever) og 22 leverpostei."
+    }
+     ,     {
+        "id": "325",
+        "text": "Universitetet i Oslo (2018). Jodprosjekt 2017-2018."
+    }
+     ,     {
         "id": "400a",
         "text": "Livsmedelsverket. Livsmedelsdatabas, versjon 2008.05.05. Nettversjon, www.slv.se."
     }
@@ -1996,6 +2080,10 @@
         "text": "Livsmedelsverket. Livsmedelsdatabas, versjon 2016.02.17. Nettversjon, http://www7.slv.se/SokNaringsinnehall"
     }
      ,     {
+        "id": "400g",
+        "text": "Livsmedelsverket. Livsmedelsdatabas, versjon 2017.12.15. Nettversjon, http://www7.slv.se/SokNaringsinnehall"
+    }
+     ,     {
         "id": "410a",
         "text": "Institutet för hälsa och välfärd. Fineli livsmedelsdatabasen, versjon 9 (2008). Nettversjon, http://www.fineli.fi/index.php?lang\u003dsv"
     }
@@ -2012,6 +2100,10 @@
         "text": "Institutet för hälsa och välfärd. Fineli livsmedelsdatabasen, versjon 16 (2013). Nettversjon, http://www.fineli.fi/index.php?lang\u003dsv"
     }
      ,     {
+        "id": "410e",
+        "text": "Institutet för hälsa och välfärd. Fineli livsmedelsdatabasen, versjon 18 (2017). Nettversjon, http://www.fineli.fi/index.php?lang\u003dsv"
+    }
+     ,     {
         "id": "420a",
         "text": "Danmarks Fødevareforskning. Fødevaredatabanken, versjon 7.01 (2009). Nettversjon, http://www.foodcomp.dk/v7/fvdb_default.asp"
     }
@@ -2024,8 +2116,20 @@
         "text": "Fødevareinstituttet. Fødevaredatabanken, Frida versjon 1. (2015). Nettversjon, http://frida.fooddata.dk"
     }
      ,     {
+        "id": "420d",
+        "text": "Fødevareinstituttet. Fødevaredatabanken, Frida versjon 2. (2016). Nettversjon, http://frida.fooddata.dk"
+    }
+     ,     {
+        "id": "420e",
+        "text": "Fødevareinstituttet. Fødevaredatabanken, Frida versjon 3. (2017). Nettversjon, http://frida.fooddata.dk"
+    }
+     ,     {
         "id": "430a",
         "text": "French Agency for Food, Environmental and Occupational Health safety. French food composition table - Ciqual 2012. Nettversjon, http://www.afssa.fr/TableCIQUAL/"
+    }
+     ,     {
+        "id": "430b",
+        "text": "French Agency for Food, Environmental and Occupational Health safety. French food composition table - Ciqual 2017. Nettversjon, https://ciqual.anses.fr/"
     }
      ,     {
         "id": "440a",
@@ -2053,7 +2157,7 @@
     }
      ,     {
         "id": "460c",
-        "text": "Omregnet verdi fra referanse 460c: US Department of Agriculture, Agricultural Research Service. USDA Nutrient Database for Standard Reference, versjon 23 (2010). Nettversjon, http://www.nal.usda.gov/fnic/foodcomp/search/"
+        "text": "Omregnet verdi fra referanse 460b: US Department of Agriculture, Agricultural Research Service. USDA Nutrient Database for Standard Reference, versjon 23 (2010). Nettversjon, http://www.nal.usda.gov/fnic/foodcomp/search/"
     }
      ,     {
         "id": "460d",
@@ -2073,15 +2177,27 @@
     }
      ,     {
         "id": "470a",
-        "text": "Nederlandsk matvaretabell. NEVO online, versjon 2010/2.0. RIVM, Bilthoven. http://nevo-online.rivm.nl/"
+        "text": "National Institute for Public Health and the Environment. NEVO online, versjon 2010/2.0. http://nevo-online.rivm.nl/"
     }
      ,     {
         "id": "470b",
-        "text": "Nederlandsk matvaretabell. NEVO online, versjon 2013/4.0. RIVM, Bilthoven. http://nevo-online.rivm.nl/"
+        "text": "National Institute for Public Health and the Environment. NEVO online, versjon 2013/4.0. http://nevo-online.rivm.nl/"
+    }
+     ,     {
+        "id": "470c",
+        "text": "National Institute for Public Health and the Environment. NEVO online, versjon 2016/5.0. http://nevo-online.rivm.nl/"
     }
      ,     {
         "id": "480a",
         "text": "Swiss Federal Office of Public Health. Swiss Food Composition Database. Versjon 5.0. (2013). Nettversjon, http://www.naehrwertdaten.ch"
+    }
+     ,     {
+        "id": "490a",
+        "text": "Instituto Nazionale di Recerca per gli Alimenti e la Nutrizione. Tabelle dicomposizione degli alimenti. Nettversjon, http://nut.entecra.it/646/tabelle_di_composizione_degli_alimenti.html"
+    }
+     ,     {
+        "id": "500a",
+        "text": "Standard Tables of Food Composition in Japan. Versjon 7 (2015). Nettversjon, www.mext.go.jp/en/policy/science_technology/policy/title01/detail01/1374030.htm"
     }
      ,     {
         "id": "600",
@@ -2122,6 +2238,10 @@
      ,     {
         "id": "609",
         "text": "Öhrvik, V., von Malmborg, A., Mattisson, I., Wretling, S., Åstrand, C. Fish, shellfish and fish products - analysis of nutrients. [Rapport 1-2012]. Livsmedelsverket, Uppsala, 2016. Nettversjon, http://www.livsmedelsverket.se/globalassets/rapporter/2012/fish-shellfish-and-fish-products---analysis-of-nutrients-rapport-1-2012.pdf"
+    }
+     ,     {
+        "id": "610",
+        "text": "Public Health England. Nutrient analysis of fresh and processed fruit and vegetables with respect to fibre. Analytical report. Public Health England, London, 2017. Nettversjon, https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/603483/fruit_and_vegetable_survey_2015_analytical_report.pdf"
     }
         ],
     "langualcodes": [

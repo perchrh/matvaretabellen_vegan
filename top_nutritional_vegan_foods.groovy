@@ -135,6 +135,7 @@ def pointScoringNutrients = data.nutrients.findAll { pointScoringNutrientNames.c
 
 cutoff = 15
 pointScoringNutrients.each { nutrient ->
+    cutoff = Math.min(cutoff, topLists[nutrient.name].size())
     println("\nTopp $cutoff matvarer med ${nutrient.name}")
     println("**********************************")
     for (position in 0..(cutoff - 1)) {
@@ -153,7 +154,7 @@ filteredFoods.each { food ->
         position = topLists[nutrient.name].findIndexOf { it -> it.id.equals(food.id) }
         if (position >= 0)
             sum += position
-        else sum += topLists[nutrient.name].size() +1 // logically after last element in list
+        else sum += topLists[nutrient.name].size() + 1 // logically after last element in list
     }
     foodScores.put(food, sum)
 }
