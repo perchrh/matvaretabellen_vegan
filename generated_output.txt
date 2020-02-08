@@ -1,331 +1,331 @@
-Fant 465 veganske matvarer på matvaretabellen.no
+Fant 558 veganske matvarer på matvaretabellen.no
 
 
 Topp 15 matvarer med Vitamin A
 **********************************
-1. Gulrot, terninger, fryst - 717.0 RAE per 100 g spiselig vare
-2. Gulrot, babygulrot, fryst - 717.0 RAE per 100 g spiselig vare
-3. Gulrot, baby, importert, rå - 650.0 RAE per 100 g spiselig vare
-4. Søtpotet, kokt u/salt, med skall - 586.0 RAE per 100 g spiselig vare
-5. Papaya, tørket - 567.0 RAE per 100 g spiselig vare
-6. Søtpotet, rå - 551.0 RAE per 100 g spiselig vare
-7. Gulrot, kokt - 510.0 RAE per 100 g spiselig vare
-8. Gulrot, knaskegulrot, norsk, rå - 492.0 RAE per 100 g spiselig vare
-9. Grønnkål, rå - 446.0 RAE per 100 g spiselig vare
-10. Gulrot, norsk, rå - 438.0 RAE per 100 g spiselig vare
-11. Gulrot, uspesifisert, rå - 438.0 RAE per 100 g spiselig vare
-12. Spinat, rå - 378.0 RAE per 100 g spiselig vare
-13. Erter, gulrot, fryst - 345.0 RAE per 100 g spiselig vare
-14. Gulrot, importert, rå - 329.0 RAE per 100 g spiselig vare
-15. Blomkål, bønner, erter, gulrot, fryst - 306.0 RAE per 100 g spiselig vare
+1. Vitamineral, 0,55 g/stk, Vitaplex - 145455.0 RAE per 100 g spiselig vare
+2. Vitaminbjørner, 2,1 g/stk, Collett - 9524.0 RAE per 100 g spiselig vare
+3. Sanasol - 2000.0 RAE per 100 g spiselig vare
+4. Gulrot, terninger, fryst - 717.0 RAE per 100 g spiselig vare
+5. Gulrot, babygulrot, fryst - 717.0 RAE per 100 g spiselig vare
+6. Babygulrot, importert, rå - 650.0 RAE per 100 g spiselig vare
+7. Søtpotet, med skall, kokt uten salt - 586.0 RAE per 100 g spiselig vare
+8. Papaya, tørket - 567.0 RAE per 100 g spiselig vare
+9. Søtpotet, rå - 551.0 RAE per 100 g spiselig vare
+10. Gulrot, kokt - 510.0 RAE per 100 g spiselig vare
+11. Gulrot, knaskegulrot, norsk, rå - 492.0 RAE per 100 g spiselig vare
+12. Grønnkål, rå - 446.0 RAE per 100 g spiselig vare
+13. Gulrot, norsk, rå - 438.0 RAE per 100 g spiselig vare
+14. Gulrot, uspesifisert, rå - 438.0 RAE per 100 g spiselig vare
+15. Spinat, rå - 378.0 RAE per 100 g spiselig vare
 
 Topp 15 matvarer med Riboflavin
 **********************************
-1. Knekkebrød, rug, tynt, type Rugsprø, Finncrisp - 1.1 mg per 100 g spiselig vare
-2. Mandler - 1.01 mg per 100 g spiselig vare
-3. Kornblanding, müsli med frukt, nøtter, søtet - 0.59 mg per 100 g spiselig vare
-4. Tomater, soltørkede, tørr - 0.49 mg per 100 g spiselig vare
-5. Hvetekim - 0.44 mg per 100 g spiselig vare
-6. Soyaprotein, teksturert - 0.42 mg per 100 g spiselig vare
-7. Mandler, skåldet - 0.41 mg per 100 g spiselig vare
-8. Sopp, sjampinjong, hermetisk, avrent - 0.4 mg per 100 g spiselig vare
-9. Hirse, hele korn - 0.38 mg per 100 g spiselig vare
-10. Hveteflak ristet, med hvetekli, type All-bran Regular - 0.33 mg per 100 g spiselig vare
-11. Hvetekli, ristet, type All-Bran plus - 0.33 mg per 100 g spiselig vare
-12. Hvetekli - 0.32 mg per 100 g spiselig vare
-13. Knekkebrød, rug, grovt - 0.3 mg per 100 g spiselig vare
-14. Tomatsuppe, pulver - 0.3 mg per 100 g spiselig vare
-15. Ris, villris, rå - 0.26 mg per 100 g spiselig vare
+1. Vitamineral, 0,55 g/stk, Vitaplex - 254.55 mg per 100 g spiselig vare
+2. Sanasol - 10.0 mg per 100 g spiselig vare
+3. Floradix - 8.0 mg per 100 g spiselig vare
+4. Knekkebrød, rug, tynt, Rugsprø, Finncrisp - 1.1 mg per 100 g spiselig vare
+5. Mandler - 0.94 mg per 100 g spiselig vare
+6. Mandelmel - 0.78 mg per 100 g spiselig vare
+7. Energidrikk, tilsatt taurin, koffein og B-vitaminer - 0.6 mg per 100 g spiselig vare
+8. Energidrikk, tilsatt taurin, koffein og B-vitaminer, sukkerfri - 0.6 mg per 100 g spiselig vare
+9. Kornblanding, müsli med frukt, nøtter, søtet - 0.59 mg per 100 g spiselig vare
+10. Mel, glutenfritt, grovt, Semper - 0.56 mg per 100 g spiselig vare
+11. Hvetekli, ristet, All-Bran plus - 0.54 mg per 100 g spiselig vare
+12. Tomater, soltørkede, tørr - 0.49 mg per 100 g spiselig vare
+13. Bokhvetemel - 0.45 mg per 100 g spiselig vare
+14. Hvetekim - 0.44 mg per 100 g spiselig vare
+15. Soyaprotein, teksturert - 0.42 mg per 100 g spiselig vare
 
 Topp 15 matvarer med Vitamin B6
 **********************************
-1. Hvetekim - 1.82 mg per 100 g spiselig vare
-2. Hvetekli - 1.35 mg per 100 g spiselig vare
-3. Pistasjnøtter, saltet - 1.12 mg per 100 g spiselig vare
-4. Hveteflak ristet, med hvetekli, type All-bran Regular - 1.06 mg per 100 g spiselig vare
-5. Hvetekli, ristet, type All-Bran plus - 1.06 mg per 100 g spiselig vare
-6. Bønner, grønne, fryst - 0.98 mg per 100 g spiselig vare
-7. Sesamfrø, med skall - 0.79 mg per 100 g spiselig vare
-8. Sesampostei/-pasta, tahini - 0.76 mg per 100 g spiselig vare
-9. Hirse, hele korn - 0.75 mg per 100 g spiselig vare
-10. Sorghum - 0.75 mg per 100 g spiselig vare
-11. Ris, polert, Jasminris, tørr - 0.75 mg per 100 g spiselig vare
-12. Riskaker, lettsaltet - 0.61 mg per 100 g spiselig vare
-13. Riskaker, usaltet - 0.61 mg per 100 g spiselig vare
-14. Peanøttsmør - 0.58 mg per 100 g spiselig vare
-15. Hasselnøtter - 0.56 mg per 100 g spiselig vare
+1. Vitaminbjørner, 2,1 g/stk, Collett - 33.33 mg per 100 g spiselig vare
+2. Sanasol - 12.0 mg per 100 g spiselig vare
+3. Floradix - 4.0 mg per 100 g spiselig vare
+4. Hvetekim - 1.82 mg per 100 g spiselig vare
+5. Hvetekli - 1.35 mg per 100 g spiselig vare
+6. Pistasjnøtter, saltet - 1.12 mg per 100 g spiselig vare
+7. Soyamel, mindre fett - 1.05 mg per 100 g spiselig vare
+8. Aspargesbønner, fryst - 0.98 mg per 100 g spiselig vare
+9. Hvetekli, ristet, All-Bran plus - 0.91 mg per 100 g spiselig vare
+10. Pistasjnøtter - 0.9 mg per 100 g spiselig vare
+11. Sesampostei/-pasta, tahini - 0.76 mg per 100 g spiselig vare
+12. Hirse, hele korn - 0.75 mg per 100 g spiselig vare
+13. Sorghum - 0.75 mg per 100 g spiselig vare
+14. Ris, polert, Jasminris, tørr - 0.75 mg per 100 g spiselig vare
+15. Riskaker, lettsaltet - 0.61 mg per 100 g spiselig vare
 
 Topp 15 matvarer med Kalsium
 **********************************
-1. Sesamfrø, med skall - 975.0 mg per 100 g spiselig vare
+1. Sesamfrø, med skall - 960.0 mg per 100 g spiselig vare
 2. Sesampostei/-pasta, tahini - 680.0 mg per 100 g spiselig vare
-3. Soyabønneost, Tofu - 540.0 mg per 100 g spiselig vare
-4. Brennesle, rå - 490.0 mg per 100 g spiselig vare
-5. Mandler - 264.0 mg per 100 g spiselig vare
-6. Linfrø, knuste - 255.0 mg per 100 g spiselig vare
-7. Soyaprotein, teksturert - 240.0 mg per 100 g spiselig vare
-8. Mandler, skåldet - 236.0 mg per 100 g spiselig vare
-9. Soyamel - 182.0 mg per 100 g spiselig vare
-10. Ris, polert, parboiled, langkornet, tørr - 178.0 mg per 100 g spiselig vare
-11. Brønnkarse, rå - 170.0 mg per 100 g spiselig vare
-12. Fiken, tørket - 162.0 mg per 100 g spiselig vare
-13. Knekkebrød, ekstra fiber - 160.0 mg per 100 g spiselig vare
-14. Ruccolasalat, rå - 160.0 mg per 100 g spiselig vare
-15. Paranøtter - 160.0 mg per 100 g spiselig vare
+3. Chiafrø, tørket - 545.0 mg per 100 g spiselig vare
+4. Tofu, soyabønneprodukt - 540.0 mg per 100 g spiselig vare
+5. Brennesle, rå - 490.0 mg per 100 g spiselig vare
+6. Knekkebrød, Synnøve Grovkrisp sesamfrø og linfrø - 430.0 mg per 100 g spiselig vare
+7. Soyamel, mindre fett - 285.0 mg per 100 g spiselig vare
+8. Mandelmel - 270.0 mg per 100 g spiselig vare
+9. Mandler - 260.0 mg per 100 g spiselig vare
+10. Linfrø, knuste - 255.0 mg per 100 g spiselig vare
+11. Soyaprotein, teksturert - 240.0 mg per 100 g spiselig vare
+12. Mandler, skåldet - 236.0 mg per 100 g spiselig vare
+13. Soyamel - 182.0 mg per 100 g spiselig vare
+14. Ris, polert, parboiled, langkornet, tørr - 178.0 mg per 100 g spiselig vare
+15. Frokostkorn, sjokoladesmak, Nestlé Nesquick - 170.0 mg per 100 g spiselig vare
 
 Topp 15 matvarer med Jern
 **********************************
-1. Sesamfrø, med skall - 14.6 mg per 100 g spiselig vare
+1. Floradix - 75.0 mg per 100 g spiselig vare
 2. Hvetekli - 11.0 mg per 100 g spiselig vare
 3. Sesampostei/-pasta, tahini - 10.6 mg per 100 g spiselig vare
 4. Brennesle, rå - 10.0 mg per 100 g spiselig vare
-5. Hveteflak ristet, med hvetekli, type All-bran Regular - 9.6 mg per 100 g spiselig vare
-6. Hvetekli, ristet, type All-Bran plus - 9.6 mg per 100 g spiselig vare
-7. Tomater, soltørkede, tørr - 9.1 mg per 100 g spiselig vare
-8. Soyaprotein, teksturert - 9.0 mg per 100 g spiselig vare
-9. Squashfrø, gresskarfrø - 8.8 mg per 100 g spiselig vare
-10. Klibrød, med hvetekli - 8.8 mg per 100 g spiselig vare
-11. Soyamel - 8.4 mg per 100 g spiselig vare
-12. Hvetekim - 8.2 mg per 100 g spiselig vare
-13. Cashewnøtter, uten salt - 6.7 mg per 100 g spiselig vare
-14. Sesamfrø, uten skall - 6.4 mg per 100 g spiselig vare
-15. Linfrø, knuste - 5.7 mg per 100 g spiselig vare
+5. Tomater, soltørkede, tørr - 9.1 mg per 100 g spiselig vare
+6. Soyaprotein, teksturert - 9.0 mg per 100 g spiselig vare
+7. Sesamfrø, med skall - 9.0 mg per 100 g spiselig vare
+8. Klibrød, med hvetekli - 8.8 mg per 100 g spiselig vare
+9. Mel, glutenfritt, grovt, Semper - 8.5 mg per 100 g spiselig vare
+10. Soyamel - 8.4 mg per 100 g spiselig vare
+11. Hvetekim - 8.2 mg per 100 g spiselig vare
+12. Soyamel, mindre fett - 8.2 mg per 100 g spiselig vare
+13. Amaranth, tørr - 7.6 mg per 100 g spiselig vare
+14. Squashfrø, gresskarfrø - 7.4 mg per 100 g spiselig vare
+15. Cashewnøtter - 6.7 mg per 100 g spiselig vare
 
 Topp 15 matvarer med Sink
 **********************************
-1. Hvetekim - 17.8 mg per 100 g spiselig vare
-2. Klibrød, med hvetekli - 8.0 mg per 100 g spiselig vare
-3. Squashfrø, gresskarfrø - 7.8 mg per 100 g spiselig vare
-4. Sesamfrø, med skall - 7.8 mg per 100 g spiselig vare
-5. Hvetekli - 7.3 mg per 100 g spiselig vare
-6. Sesamfrø, uten skall - 6.7 mg per 100 g spiselig vare
-7. Pinjekjerner - 6.5 mg per 100 g spiselig vare
-8. Ris, villris, rå - 6.0 mg per 100 g spiselig vare
-9. Cashewnøtter, uten salt - 5.8 mg per 100 g spiselig vare
-10. Hvetekli, ristet, type All-Bran plus - 5.6 mg per 100 g spiselig vare
-11. Sesampostei/-pasta, tahini - 5.4 mg per 100 g spiselig vare
-12. Pekannøtter - 4.5 mg per 100 g spiselig vare
-13. Soyaprotein, teksturert - 4.4 mg per 100 g spiselig vare
-14. Linfrø, knuste - 4.3 mg per 100 g spiselig vare
-15. Soyamel - 4.1 mg per 100 g spiselig vare
+1. Vitamineral, 0,55 g/stk, Vitaplex - 1818.2 mg per 100 g spiselig vare
+2. Hvetekim - 17.8 mg per 100 g spiselig vare
+3. Klibrød, med hvetekli - 8.0 mg per 100 g spiselig vare
+4. Hvetekli - 7.3 mg per 100 g spiselig vare
+5. Ris, villris, rå - 6.0 mg per 100 g spiselig vare
+6. Sesamfrø, uten skall - 5.8 mg per 100 g spiselig vare
+7. Pinjekjerner - 5.8 mg per 100 g spiselig vare
+8. Cashewnøtter - 5.8 mg per 100 g spiselig vare
+9. Sesamfrø, med skall - 5.5 mg per 100 g spiselig vare
+10. Sesampostei/-pasta, tahini - 5.4 mg per 100 g spiselig vare
+11. Chiafrø, tørket - 5.1 mg per 100 g spiselig vare
+12. Squashfrø, gresskarfrø - 5.0 mg per 100 g spiselig vare
+13. Knekkebrød, havre, Sigdal helsprøtt - 4.7 mg per 100 g spiselig vare
+14. Solsikkefrø - 4.7 mg per 100 g spiselig vare
+15. Pekannøtter - 4.5 mg per 100 g spiselig vare
 
 Topp 15 matvarer med Selen
 **********************************
-1. Paranøtter - 1090.0 µg per 100 g spiselig vare
-2. Knekkebrød, rug, tynt, type Rugsprø, Finncrisp - 24.0 µg per 100 g spiselig vare
-3. Riskaker, lettsaltet - 23.0 µg per 100 g spiselig vare
-4. Riskaker, usaltet - 23.0 µg per 100 g spiselig vare
-5. Linser, røde, hermetiske - 21.0 µg per 100 g spiselig vare
-6. Erter, kikerter, hermetiske - 20.0 µg per 100 g spiselig vare
-7. Kokosmasse, usøtet - 19.0 µg per 100 g spiselig vare
-8. Linser, grønne, hermetiske - 18.0 µg per 100 g spiselig vare
-9. Nudler av ris, tørr - 15.0 µg per 100 g spiselig vare
-10. Pasta, fullkorn, tørr - 15.0 µg per 100 g spiselig vare
-11. Ris, upolert, naturris, langkornet, tørr - 14.0 µg per 100 g spiselig vare
-12. Ris, polert, Basmatiris, tørr - 14.0 µg per 100 g spiselig vare
-13. Ris, hurtigris, 1 % salt, tørr - 13.0 µg per 100 g spiselig vare
-14. Hvetemel, sammalt, fint/grovt - 10.0 µg per 100 g spiselig vare
-15. Hvete, helkorn - 10.0 µg per 100 g spiselig vare
+1. Vitamineral, 0,55 g/stk, Vitaplex - 10000.0 µg per 100 g spiselig vare
+2. Paranøtter - 1090.0 µg per 100 g spiselig vare
+3. Soyamel, mindre fett - 59.0 µg per 100 g spiselig vare
+4. Sesamfrø, uten skall - 56.0 µg per 100 g spiselig vare
+5. Sesampostei/-pasta, tahini - 34.0 µg per 100 g spiselig vare
+6. Knekkebrød, rug, tynt, Rugsprø, Finncrisp - 24.0 µg per 100 g spiselig vare
+7. Riskaker, lettsaltet - 23.0 µg per 100 g spiselig vare
+8. Riskaker, usaltet - 23.0 µg per 100 g spiselig vare
+9. Linser, røde, hermetiske - 21.0 µg per 100 g spiselig vare
+10. Sesamfrø, med skall - 20.0 µg per 100 g spiselig vare
+11. Kikerter, hermetiske - 20.0 µg per 100 g spiselig vare
+12. Amaranth, tørr - 19.0 µg per 100 g spiselig vare
+13. Portobellosopp, rå - 19.0 µg per 100 g spiselig vare
+14. Kokosmasse, usøtet - 19.0 µg per 100 g spiselig vare
+15. Kantarell, rå - 18.0 µg per 100 g spiselig vare
 
 Topp 100 næringsrike veganske matvarer:
 **********************************
-1. Tomater, soltørkede, tørr
-  [Vit A:44.0 RAE, Vit B2:0.49 mg, Vit B6:0.33 mg, Ca:110.0 mg, Fe:9.1 mg, Zn:2.0 mg, Se:6.0 µg]
-2. Hvetekim
-  [Vit A:5.0 RAE, Vit B2:0.44 mg, Vit B6:1.82 mg, Ca:60.0 mg, Fe:8.2 mg, Zn:17.8 mg, Se:3.0 µg]
-3. Pistasjnøtter, saltet
-  [Vit A:13.0 RAE, Vit B2:0.23 mg, Vit B6:1.12 mg, Ca:107.0 mg, Fe:4.0 mg, Zn:2.3 mg, Se:2.0 µg]
-4. Sesamfrø, med skall
-  [Vit A:0.0 RAE, Vit B2:0.25 mg, Vit B6:0.79 mg, Ca:975.0 mg, Fe:14.6 mg, Zn:7.8 mg, Se:2.0 µg]
-5. Brennesle, rå
-  [Vit A:200.0 RAE, Vit B2:0.15 mg, Vit B6:0.28 mg, Ca:490.0 mg, Fe:10.0 mg, Zn:1.7 mg, Se:1.0 µg]
-6. Hvetekli
-  [Vit A:1.0 RAE, Vit B2:0.32 mg, Vit B6:1.35 mg, Ca:76.0 mg, Fe:11.0 mg, Zn:7.3 mg, Se:2.0 µg]
-7. Soyamel
-  [Vit A:0.0 RAE, Vit B2:0.26 mg, Vit B6:0.4 mg, Ca:182.0 mg, Fe:8.4 mg, Zn:4.1 mg, Se:7.0 µg]
-8. Hvetekli, ristet, type All-Bran plus
-  [Vit A:1.0 RAE, Vit B2:0.33 mg, Vit B6:1.06 mg, Ca:42.0 mg, Fe:9.6 mg, Zn:5.6 mg, Se:4.0 µg]
-9. Sesamfrø, uten skall
-  [Vit A:3.0 RAE, Vit B2:0.09 mg, Vit B6:0.4 mg, Ca:60.0 mg, Fe:6.4 mg, Zn:6.7 mg, Se:2.0 µg]
-10. Linfrø, knuste
-  [Vit A:0.0 RAE, Vit B2:0.16 mg, Vit B6:0.47 mg, Ca:255.0 mg, Fe:5.7 mg, Zn:4.3 mg, Se:3.0 µg]
-11. Pekannøtter
-  [Vit A:2.0 RAE, Vit B2:0.13 mg, Vit B6:0.21 mg, Ca:70.0 mg, Fe:2.5 mg, Zn:4.5 mg, Se:4.0 µg]
-12. Knekkebrød, rug, tynt, type Rugsprø, Finncrisp
-  [Vit A:0.0 RAE, Vit B2:1.1 mg, Vit B6:0.36 mg, Ca:34.0 mg, Fe:5.4 mg, Zn:3.1 mg, Se:24.0 µg]
-13. Klibrød, med hvetekli
-  [Vit A:0.0 RAE, Vit B2:0.14 mg, Vit B6:0.2 mg, Ca:89.0 mg, Fe:8.8 mg, Zn:8.0 mg, Se:5.0 µg]
-14. Soyaprotein, teksturert
-  [Vit A:0.0 RAE, Vit B2:0.42 mg, Vit B6:0.51 mg, Ca:240.0 mg, Fe:9.0 mg, Zn:4.4 mg, Se:1.0 µg]
-15. Grønnkål, rå
-  [Vit A:446.0 RAE, Vit B2:0.13 mg, Vit B6:0.27 mg, Ca:157.0 mg, Fe:1.7 mg, Zn:0.4 mg, Se:2.0 µg]
-16. Hasselnøtter
-  [Vit A:1.0 RAE, Vit B2:0.11 mg, Vit B6:0.56 mg, Ca:140.0 mg, Fe:3.2 mg, Zn:2.1 mg, Se:2.0 µg]
-17. Peanøtter
-  [Vit A:0.0 RAE, Vit B2:0.14 mg, Vit B6:0.35 mg, Ca:92.0 mg, Fe:4.6 mg, Zn:3.3 mg, Se:3.0 µg]
-18. Hveteflak ristet, med hvetekli, type All-bran Regular
-  [Vit A:0.0 RAE, Vit B2:0.33 mg, Vit B6:1.06 mg, Ca:30.0 mg, Fe:9.6 mg, Zn:2.5 mg, Se:4.0 µg]
-19. Tomatpuré, hermetisk
-  [Vit A:146.0 RAE, Vit B2:0.12 mg, Vit B6:0.28 mg, Ca:45.0 mg, Fe:4.5 mg, Zn:0.6 mg, Se:1.0 µg]
-20. Knekkebrød, ekstra fiber
-  [Vit A:0.0 RAE, Vit B2:0.2 mg, Vit B6:0.2 mg, Ca:160.0 mg, Fe:5.7 mg, Zn:4.0 mg, Se:2.0 µg]
-21. Sesampostei/-pasta, tahini
-  [Vit A:1.0 RAE, Vit B2:0.17 mg, Vit B6:0.76 mg, Ca:680.0 mg, Fe:10.6 mg, Zn:5.4 mg, Se:0.0 µg]
-22. Valnøtter
-  [Vit A:0.0 RAE, Vit B2:0.15 mg, Vit B6:0.54 mg, Ca:94.0 mg, Fe:2.9 mg, Zn:2.7 mg, Se:3.0 µg]
-23. Tomatpuré
-  [Vit A:146.0 RAE, Vit B2:0.12 mg, Vit B6:0.28 mg, Ca:45.0 mg, Fe:4.5 mg, Zn:0.6 mg, Se:1.0 µg]
-24. Mandler, skåldet
-  [Vit A:0.0 RAE, Vit B2:0.41 mg, Vit B6:0.12 mg, Ca:236.0 mg, Fe:3.3 mg, Zn:3.0 mg, Se:3.0 µg]
-25. Spinat, rå
-  [Vit A:378.0 RAE, Vit B2:0.17 mg, Vit B6:0.28 mg, Ca:83.0 mg, Fe:2.1 mg, Zn:0.9 mg, Se:0.0 µg]
-26. Mandler
-  [Vit A:0.0 RAE, Vit B2:1.01 mg, Vit B6:0.14 mg, Ca:264.0 mg, Fe:3.7 mg, Zn:3.1 mg, Se:3.0 µg]
-27. Knekkebrød, rug, grovt
-  [Vit A:0.0 RAE, Vit B2:0.3 mg, Vit B6:0.3 mg, Ca:55.0 mg, Fe:3.6 mg, Zn:3.3 mg, Se:1.0 µg]
-28. Macadamianøtter
-  [Vit A:0.0 RAE, Vit B2:0.16 mg, Vit B6:0.28 mg, Ca:85.0 mg, Fe:3.7 mg, Zn:1.3 mg, Se:4.0 µg]
-29. Squashfrø, gresskarfrø
-  [Vit A:1.0 RAE, Vit B2:0.15 mg, Vit B6:0.14 mg, Ca:46.0 mg, Fe:8.8 mg, Zn:7.8 mg, Se:2.0 µg]
-30. Havreputer, type Havrefras
-  [Vit A:0.0 RAE, Vit B2:0.15 mg, Vit B6:0.26 mg, Ca:53.0 mg, Fe:4.1 mg, Zn:2.4 mg, Se:3.0 µg]
-31. Svisker
-  [Vit A:12.0 RAE, Vit B2:0.2 mg, Vit B6:0.24 mg, Ca:38.0 mg, Fe:2.9 mg, Zn:0.5 mg, Se:3.0 µg]
-32. Sorghum
-  [Vit A:0.0 RAE, Vit B2:0.15 mg, Vit B6:0.75 mg, Ca:28.0 mg, Fe:4.4 mg, Zn:2.0 mg, Se:5.0 µg]
-33. Kornblanding, med bær, type Go'dag Blåbærmüsli
-  [Vit A:4.0 RAE, Vit B2:0.1 mg, Vit B6:0.18 mg, Ca:28.0 mg, Fe:4.2 mg, Zn:1.7 mg, Se:5.0 µg]
-34. Ris, villris, rå
-  [Vit A:1.0 RAE, Vit B2:0.26 mg, Vit B6:0.39 mg, Ca:21.0 mg, Fe:2.0 mg, Zn:6.0 mg, Se:3.0 µg]
-35. Kornblanding, type 4-korn
-  [Vit A:0.0 RAE, Vit B2:0.13 mg, Vit B6:0.22 mg, Ca:33.0 mg, Fe:3.5 mg, Zn:2.3 mg, Se:5.0 µg]
-36. Kornblanding, med frukt, type Go'dag Fruktmüsli
-  [Vit A:2.0 RAE, Vit B2:0.09 mg, Vit B6:0.2 mg, Ca:35.0 mg, Fe:3.0 mg, Zn:1.7 mg, Se:4.0 µg]
-37. Havrekli
-  [Vit A:0.0 RAE, Vit B2:0.22 mg, Vit B6:0.17 mg, Ca:58.0 mg, Fe:5.0 mg, Zn:3.1 mg, Se:1.0 µg]
-38. Bokhvete, hele korn
-  [Vit A:1.0 RAE, Vit B2:0.1 mg, Vit B6:0.4 mg, Ca:18.0 mg, Fe:3.8 mg, Zn:2.5 mg, Se:5.0 µg]
-39. Bulgurgryn, tørr
-  [Vit A:0.0 RAE, Vit B2:0.12 mg, Vit B6:0.36 mg, Ca:34.0 mg, Fe:2.5 mg, Zn:2.8 mg, Se:4.0 µg]
-40. Pasta, fullkorn, tørr
-  [Vit A:0.0 RAE, Vit B2:0.06 mg, Vit B6:0.31 mg, Ca:39.0 mg, Fe:3.6 mg, Zn:2.8 mg, Se:15.0 µg]
-41. Hvetemel, sammalt, fint/grovt
-  [Vit A:0.0 RAE, Vit B2:0.08 mg, Vit B6:0.19 mg, Ca:31.0 mg, Fe:4.1 mg, Zn:2.7 mg, Se:10.0 µg]
-42. Hvete, helkorn
-  [Vit A:0.0 RAE, Vit B2:0.08 mg, Vit B6:0.19 mg, Ca:31.0 mg, Fe:4.1 mg, Zn:2.7 mg, Se:10.0 µg]
-43. Kornblanding, med frukt og nøtter, type Go'dag Energimüsli
-  [Vit A:1.0 RAE, Vit B2:0.1 mg, Vit B6:0.26 mg, Ca:54.0 mg, Fe:3.0 mg, Zn:2.0 mg, Se:1.0 µg]
-44. Aprikos, tørket
-  [Vit A:180.0 RAE, Vit B2:0.07 mg, Vit B6:0.14 mg, Ca:55.0 mg, Fe:2.7 mg, Zn:0.4 mg, Se:2.0 µg]
-45. Kokosmasse, usøtet
-  [Vit A:0.0 RAE, Vit B2:0.1 mg, Vit B6:0.3 mg, Ca:26.0 mg, Fe:3.3 mg, Zn:2.0 mg, Se:19.0 µg]
-46. Flatbrød, hjemmebakt type, kjøpt
-  [Vit A:0.0 RAE, Vit B2:0.15 mg, Vit B6:0.16 mg, Ca:33.0 mg, Fe:3.1 mg, Zn:2.7 mg, Se:4.0 µg]
-47. Havremel
-  [Vit A:0.0 RAE, Vit B2:0.13 mg, Vit B6:0.2 mg, Ca:53.0 mg, Fe:5.0 mg, Zn:3.1 mg, Se:1.0 µg]
-48. Hvetebrikker, type Weetabix
-  [Vit A:0.0 RAE, Vit B2:0.15 mg, Vit B6:0.33 mg, Ca:28.0 mg, Fe:4.3 mg, Zn:1.5 mg, Se:3.0 µg]
-49. Pumpernikkel, fullkornsbrød, ekstra grovt (75-100 %), kjøpt
-  [Vit A:0.0 RAE, Vit B2:0.15 mg, Vit B6:0.18 mg, Ca:77.0 mg, Fe:3.0 mg, Zn:2.3 mg, Se:1.0 µg]
-50. Peanøttsmør
-  [Vit A:0.0 RAE, Vit B2:0.09 mg, Vit B6:0.58 mg, Ca:37.0 mg, Fe:2.1 mg, Zn:3.0 mg, Se:3.0 µg]
-51. Rugmel, sammalt
-  [Vit A:0.0 RAE, Vit B2:0.18 mg, Vit B6:0.18 mg, Ca:24.0 mg, Fe:2.9 mg, Zn:2.2 mg, Se:6.0 µg]
-52. Knekkebrød, rug, type Husman
-  [Vit A:0.0 RAE, Vit B2:0.1 mg, Vit B6:0.2 mg, Ca:40.0 mg, Fe:3.1 mg, Zn:3.0 mg, Se:2.0 µg]
-53. Cashewnøtter, uten salt
-  [Vit A:0.0 RAE, Vit B2:0.06 mg, Vit B6:0.42 mg, Ca:37.0 mg, Fe:6.7 mg, Zn:5.8 mg, Se:2.0 µg]
-54. Brønnkarse, rå
-  [Vit A:210.0 RAE, Vit B2:0.06 mg, Vit B6:0.23 mg, Ca:170.0 mg, Fe:2.2 mg, Zn:0.7 mg, Se:0.0 µg]
-55. Ris, polert, parboiled, langkornet, tørr
-  [Vit A:0.0 RAE, Vit B2:0.05 mg, Vit B6:0.51 mg, Ca:178.0 mg, Fe:1.3 mg, Zn:0.8 mg, Se:7.0 µg]
-56. Fullkornshvete, type Jippi Frokosttall
-  [Vit A:1.0 RAE, Vit B2:0.07 mg, Vit B6:0.14 mg, Ca:27.0 mg, Fe:3.0 mg, Zn:2.3 mg, Se:7.0 µg]
-57. Puffet havre, type Havrenøtter
-  [Vit A:0.0 RAE, Vit B2:0.07 mg, Vit B6:0.46 mg, Ca:37.0 mg, Fe:3.5 mg, Zn:2.3 mg, Se:1.0 µg]
-58. Hirse, hele korn
-  [Vit A:0.0 RAE, Vit B2:0.38 mg, Vit B6:0.75 mg, Ca:10.0 mg, Fe:4.8 mg, Zn:3.4 mg, Se:2.0 µg]
-59. Havregryn, lettkokte/store
-  [Vit A:0.0 RAE, Vit B2:0.08 mg, Vit B6:0.24 mg, Ca:40.0 mg, Fe:3.7 mg, Zn:2.5 mg, Se:1.0 µg]
-60. Havreputer, type Jippi Havreputer
-  [Vit A:0.0 RAE, Vit B2:0.11 mg, Vit B6:0.19 mg, Ca:41.0 mg, Fe:3.8 mg, Zn:2.4 mg, Se:1.0 µg]
-61. Havreflak, type Havreflakes
-  [Vit A:0.0 RAE, Vit B2:0.07 mg, Vit B6:0.22 mg, Ca:41.0 mg, Fe:4.8 mg, Zn:2.9 mg, Se:1.0 µg]
-62. Byggmel
-  [Vit A:0.0 RAE, Vit B2:0.13 mg, Vit B6:0.3 mg, Ca:28.0 mg, Fe:2.2 mg, Zn:1.5 mg, Se:3.0 µg]
-63. Vårløk, rå
-  [Vit A:115.0 RAE, Vit B2:0.15 mg, Vit B6:0.21 mg, Ca:70.0 mg, Fe:1.2 mg, Zn:0.3 mg, Se:0.0 µg]
-64. Paranøtter
-  [Vit A:0.0 RAE, Vit B2:0.04 mg, Vit B6:0.1 mg, Ca:160.0 mg, Fe:2.4 mg, Zn:4.1 mg, Se:1090.0 µg]
-65. Kornblanding, müsli med frukt, nøtter, søtet
-  [Vit A:0.0 RAE, Vit B2:0.59 mg, Vit B6:0.15 mg, Ca:25.0 mg, Fe:3.0 mg, Zn:2.2 mg, Se:1.0 µg]
-66. Papaya, tørket
-  [Vit A:567.0 RAE, Vit B2:0.17 mg, Vit B6:0.11 mg, Ca:135.0 mg, Fe:0.6 mg, Zn:0.4 mg, Se:1.0 µg]
-67. Daddel, tørket
-  [Vit A:3.0 RAE, Vit B2:0.09 mg, Vit B6:0.19 mg, Ca:45.0 mg, Fe:1.3 mg, Zn:0.4 mg, Se:3.0 µg]
-68. Kastanjer, ristede
-  [Vit A:1.0 RAE, Vit B2:0.18 mg, Vit B6:0.5 mg, Ca:29.0 mg, Fe:0.9 mg, Zn:0.6 mg, Se:1.0 µg]
-69. Spinat, fryst, rå
-  [Vit A:242.0 RAE, Vit B2:0.1 mg, Vit B6:0.1 mg, Ca:120.0 mg, Fe:0.8 mg, Zn:0.8 mg, Se:0.0 µg]
-70. Byggryn
-  [Vit A:0.0 RAE, Vit B2:0.11 mg, Vit B6:0.33 mg, Ca:23.0 mg, Fe:2.2 mg, Zn:1.3 mg, Se:3.0 µg]
-71. Mangold, sølvbete, rå
-  [Vit A:304.0 RAE, Vit B2:0.09 mg, Vit B6:0.1 mg, Ca:51.0 mg, Fe:1.8 mg, Zn:0.4 mg, Se:1.0 µg]
-72. Kornblanding, type Vita Hjertego' Flerkornsblanding med Blåbær og Tranebær
-  [Vit A:1.0 RAE, Vit B2:0.09 mg, Vit B6:0.17 mg, Ca:30.0 mg, Fe:2.4 mg, Zn:1.0 mg, Se:2.0 µg]
-73. Flatbrød, kjøpt
-  [Vit A:0.0 RAE, Vit B2:0.12 mg, Vit B6:0.13 mg, Ca:31.0 mg, Fe:1.7 mg, Zn:2.2 mg, Se:4.0 µg]
-74. Puffet hvete, type Hvetenøtter
-  [Vit A:0.0 RAE, Vit B2:0.06 mg, Vit B6:0.44 mg, Ca:23.0 mg, Fe:3.1 mg, Zn:2.4 mg, Se:1.0 µg]
-75. Chapatti, brød, sammalt mel
-  [Vit A:0.0 RAE, Vit B2:0.06 mg, Vit B6:0.14 mg, Ca:23.0 mg, Fe:3.1 mg, Zn:2.0 mg, Se:7.0 µg]
-76. Brød, halvgrovt (25-50 %), kjøpt, type Jegerbrød
-  [Vit A:0.0 RAE, Vit B2:0.09 mg, Vit B6:0.1 mg, Ca:31.0 mg, Fe:2.1 mg, Zn:1.5 mg, Se:6.0 µg]
-77. Asparges, rå
-  [Vit A:37.0 RAE, Vit B2:0.14 mg, Vit B6:0.09 mg, Ca:24.0 mg, Fe:2.1 mg, Zn:0.5 mg, Se:1.0 µg]
-78. Fiken, tørket
-  [Vit A:1.0 RAE, Vit B2:0.08 mg, Vit B6:0.11 mg, Ca:162.0 mg, Fe:2.0 mg, Zn:0.6 mg, Se:2.0 µg]
-79. Brød, ekstra grovt (75-100 %), kjøpt, type Havrebrød
-  [Vit A:0.0 RAE, Vit B2:0.09 mg, Vit B6:0.08 mg, Ca:33.0 mg, Fe:2.7 mg, Zn:1.6 mg, Se:7.0 µg]
-80. Erter, kikerter, hermetiske
-  [Vit A:1.0 RAE, Vit B2:0.03 mg, Vit B6:0.11 mg, Ca:68.0 mg, Fe:1.6 mg, Zn:1.1 mg, Se:20.0 µg]
-81. Grovbakstmel, 40 % sammalt
-  [Vit A:0.0 RAE, Vit B2:0.07 mg, Vit B6:0.12 mg, Ca:22.0 mg, Fe:2.2 mg, Zn:1.6 mg, Se:7.0 µg]
-82. Ruccolasalat, rå
-  [Vit A:119.0 RAE, Vit B2:0.09 mg, Vit B6:0.07 mg, Ca:160.0 mg, Fe:1.5 mg, Zn:0.5 mg, Se:0.0 µg]
-83. Søtpotet, kokt u/salt, med skall
-  [Vit A:586.0 RAE, Vit B2:0.06 mg, Vit B6:0.22 mg, Ca:32.0 mg, Fe:0.6 mg, Zn:0.3 mg, Se:1.0 µg]
-84. Feltsalat
-  [Vit A:243.0 RAE, Vit B2:0.13 mg, Vit B6:0.14 mg, Ca:71.0 mg, Fe:1.8 mg, Zn:0.2 mg, Se:0.0 µg]
-85. Brød, 75 % sammalt mel, vann, hjemmebakt
-  [Vit A:0.0 RAE, Vit B2:0.07 mg, Vit B6:0.12 mg, Ca:20.0 mg, Fe:2.4 mg, Zn:1.8 mg, Se:6.0 µg]
-86. Riskaker, lettsaltet
-  [Vit A:0.0 RAE, Vit B2:0.03 mg, Vit B6:0.61 mg, Ca:20.0 mg, Fe:1.7 mg, Zn:1.5 mg, Se:23.0 µg]
-87. Tacotubs, skjell, type Santa Maria
-  [Vit A:0.0 RAE, Vit B2:0.05 mg, Vit B6:0.17 mg, Ca:87.0 mg, Fe:1.6 mg, Zn:0.9 mg, Se:2.0 µg]
-88. Riskaker, usaltet
-  [Vit A:0.0 RAE, Vit B2:0.03 mg, Vit B6:0.61 mg, Ca:20.0 mg, Fe:1.7 mg, Zn:1.5 mg, Se:23.0 µg]
-89. Pinjekjerner
-  [Vit A:1.0 RAE, Vit B2:0.23 mg, Vit B6:0.09 mg, Ca:11.0 mg, Fe:5.6 mg, Zn:6.5 mg, Se:1.0 µg]
-90. Potetchips, stekt i peanøttolje
-  [Vit A:0.0 RAE, Vit B2:0.07 mg, Vit B6:0.53 mg, Ca:21.0 mg, Fe:2.5 mg, Zn:1.3 mg, Se:2.0 µg]
-91. Bønner, grønne, fryst
-  [Vit A:9.0 RAE, Vit B2:0.06 mg, Vit B6:0.98 mg, Ca:62.0 mg, Fe:0.7 mg, Zn:0.4 mg, Se:1.0 µg]
-92. Bokhvetemel, lyst
-  [Vit A:0.0 RAE, Vit B2:0.11 mg, Vit B6:0.28 mg, Ca:8.0 mg, Fe:2.1 mg, Zn:2.0 mg, Se:5.0 µg]
-93. Pak-choi, bok choy, kål, rå
-  [Vit A:223.0 RAE, Vit B2:0.07 mg, Vit B6:0.19 mg, Ca:105.0 mg, Fe:0.8 mg, Zn:0.2 mg, Se:1.0 µg]
-94. Soyapølse, hermetisk
-  [Vit A:0.0 RAE, Vit B2:0.1 mg, Vit B6:0.27 mg, Ca:73.0 mg, Fe:2.7 mg, Zn:0.3 mg, Se:1.0 µg]
-95. Brød, 2/3 sammalt mel, vann, hjemmebakt
-  [Vit A:0.0 RAE, Vit B2:0.07 mg, Vit B6:0.12 mg, Ca:19.0 mg, Fe:2.3 mg, Zn:1.7 mg, Se:6.0 µg]
-96. Ris, upolert, naturris, langkornet, tørr
-  [Vit A:0.0 RAE, Vit B2:0.05 mg, Vit B6:0.56 mg, Ca:11.0 mg, Fe:1.3 mg, Zn:2.1 mg, Se:14.0 µg]
-97. Bønner, brune, kokt
-  [Vit A:1.0 RAE, Vit B2:0.08 mg, Vit B6:0.12 mg, Ca:54.0 mg, Fe:2.0 mg, Zn:0.8 mg, Se:1.0 µg]
-98. Søtpotet, rå
-  [Vit A:551.0 RAE, Vit B2:0.06 mg, Vit B6:0.21 mg, Ca:30.0 mg, Fe:0.6 mg, Zn:0.3 mg, Se:1.0 µg]
-99. Havre ristet, med frukt, olje, type Crüsli
-  [Vit A:0.0 RAE, Vit B2:0.05 mg, Vit B6:0.14 mg, Ca:27.0 mg, Fe:2.4 mg, Zn:1.4 mg, Se:3.0 µg]
-100. Brokkoli, med stilk, fryst
-  [Vit A:30.0 RAE, Vit B2:0.06 mg, Vit B6:0.18 mg, Ca:32.0 mg, Fe:0.6 mg, Zn:0.4 mg, Se:3.0 µg]
+1. Soyamel, mindre fett
+   [Vit A:2.0 RAE, Vit B2:0.28 mg, Vit B6:1.05 mg, Ca:285.0 mg, Fe:8.2 mg, Zn:4.1 mg, Se:59.0 µg]
+2. Tomater, soltørkede, tørr
+   [Vit A:44.0 RAE, Vit B2:0.49 mg, Vit B6:0.33 mg, Ca:110.0 mg, Fe:9.1 mg, Zn:2.0 mg, Se:6.0 µg]
+3. Hvetekim
+   [Vit A:5.0 RAE, Vit B2:0.44 mg, Vit B6:1.82 mg, Ca:60.0 mg, Fe:8.2 mg, Zn:17.8 mg, Se:3.0 µg]
+4. Sesampostei/-pasta, tahini
+   [Vit A:1.0 RAE, Vit B2:0.17 mg, Vit B6:0.76 mg, Ca:680.0 mg, Fe:10.6 mg, Zn:5.4 mg, Se:34.0 µg]
+5. Sesamfrø, med skall
+   [Vit A:0.0 RAE, Vit B2:0.22 mg, Vit B6:0.37 mg, Ca:960.0 mg, Fe:9.0 mg, Zn:5.5 mg, Se:20.0 µg]
+6. Pistasjnøtter, saltet
+   [Vit A:13.0 RAE, Vit B2:0.23 mg, Vit B6:1.12 mg, Ca:107.0 mg, Fe:4.0 mg, Zn:2.3 mg, Se:2.0 µg]
+7. Amaranth, tørr
+   [Vit A:0.0 RAE, Vit B2:0.2 mg, Vit B6:0.59 mg, Ca:159.0 mg, Fe:7.6 mg, Zn:2.9 mg, Se:19.0 µg]
+8. Soyamel
+   [Vit A:0.0 RAE, Vit B2:0.26 mg, Vit B6:0.4 mg, Ca:182.0 mg, Fe:8.4 mg, Zn:4.1 mg, Se:7.0 µg]
+9. Hvetekli
+   [Vit A:1.0 RAE, Vit B2:0.32 mg, Vit B6:1.35 mg, Ca:76.0 mg, Fe:11.0 mg, Zn:7.3 mg, Se:2.0 µg]
+10. Solsikkefrø
+   [Vit A:0.0 RAE, Vit B2:0.2 mg, Vit B6:0.57 mg, Ca:88.0 mg, Fe:4.9 mg, Zn:4.7 mg, Se:10.0 µg]
+11. Brennesle, rå
+   [Vit A:200.0 RAE, Vit B2:0.15 mg, Vit B6:0.28 mg, Ca:490.0 mg, Fe:10.0 mg, Zn:1.7 mg, Se:1.0 µg]
+12. Knekkebrød, Synnøve Grovkrisp sesamfrø og linfrø
+   [Vit A:0.0 RAE, Vit B2:0.14 mg, Vit B6:0.34 mg, Ca:430.0 mg, Fe:4.8 mg, Zn:3.8 mg, Se:15.0 µg]
+13. Knekkebrød, havre, Sigdal helsprøtt
+   [Vit A:0.0 RAE, Vit B2:0.13 mg, Vit B6:0.39 mg, Ca:88.0 mg, Fe:5.2 mg, Zn:4.7 mg, Se:15.0 µg]
+14. Linfrø, knuste
+   [Vit A:0.0 RAE, Vit B2:0.16 mg, Vit B6:0.47 mg, Ca:255.0 mg, Fe:5.7 mg, Zn:4.3 mg, Se:3.0 µg]
+15. Knekkebrød, rug, tynt, Rugsprø, Finncrisp
+   [Vit A:0.0 RAE, Vit B2:1.1 mg, Vit B6:0.36 mg, Ca:34.0 mg, Fe:5.4 mg, Zn:3.1 mg, Se:24.0 µg]
+16. Pistasjnøtter
+   [Vit A:0.0 RAE, Vit B2:0.24 mg, Vit B6:0.9 mg, Ca:92.0 mg, Fe:2.8 mg, Zn:2.5 mg, Se:7.0 µg]
+17. Knekkebrød, Mesterbakeren Original
+   [Vit A:0.0 RAE, Vit B2:0.12 mg, Vit B6:0.31 mg, Ca:72.0 mg, Fe:4.6 mg, Zn:4.4 mg, Se:11.0 µg]
+18. Vegetarisk farse, soyaprotein, fryst
+   [Vit A:0.0 RAE, Vit B2:0.27 mg, Vit B6:0.35 mg, Ca:103.0 mg, Fe:3.6 mg, Zn:1.9 mg, Se:7.0 µg]
+19. Chiafrø, tørket
+   [Vit A:0.0 RAE, Vit B2:0.2 mg, Vit B6:0.14 mg, Ca:545.0 mg, Fe:6.5 mg, Zn:5.1 mg, Se:10.0 µg]
+20. Klibrød, med hvetekli
+   [Vit A:0.0 RAE, Vit B2:0.14 mg, Vit B6:0.2 mg, Ca:89.0 mg, Fe:8.8 mg, Zn:8.0 mg, Se:5.0 µg]
+21. Soyaprotein, teksturert
+   [Vit A:0.0 RAE, Vit B2:0.42 mg, Vit B6:0.51 mg, Ca:240.0 mg, Fe:9.0 mg, Zn:4.4 mg, Se:1.0 µg]
+22. Pekannøtter
+   [Vit A:2.0 RAE, Vit B2:0.13 mg, Vit B6:0.21 mg, Ca:70.0 mg, Fe:2.5 mg, Zn:4.5 mg, Se:4.0 µg]
+23. Sesamfrø, uten skall
+   [Vit A:0.0 RAE, Vit B2:0.12 mg, Vit B6:0.35 mg, Ca:37.0 mg, Fe:5.8 mg, Zn:5.8 mg, Se:56.0 µg]
+24. Quinoa, svart, tørr
+   [Vit A:4.0 RAE, Vit B2:0.29 mg, Vit B6:0.14 mg, Ca:47.0 mg, Fe:3.8 mg, Zn:2.8 mg, Se:5.0 µg]
+25. Peanøtter
+   [Vit A:0.0 RAE, Vit B2:0.14 mg, Vit B6:0.35 mg, Ca:92.0 mg, Fe:4.6 mg, Zn:3.3 mg, Se:3.0 µg]
+26. Knekkebrød, med ekstra fiber
+   [Vit A:0.0 RAE, Vit B2:0.2 mg, Vit B6:0.2 mg, Ca:160.0 mg, Fe:5.7 mg, Zn:4.0 mg, Se:2.0 µg]
+27. Quinoa, hvit, tørr
+   [Vit A:4.0 RAE, Vit B2:0.37 mg, Vit B6:0.21 mg, Ca:41.0 mg, Fe:3.6 mg, Zn:2.9 mg, Se:1.0 µg]
+28. Grønnkål, rå
+   [Vit A:446.0 RAE, Vit B2:0.13 mg, Vit B6:0.27 mg, Ca:157.0 mg, Fe:1.7 mg, Zn:0.4 mg, Se:2.0 µg]
+29. Mandler, skåldet
+   [Vit A:0.0 RAE, Vit B2:0.41 mg, Vit B6:0.12 mg, Ca:236.0 mg, Fe:3.3 mg, Zn:3.0 mg, Se:3.0 µg]
+30. Knekkebrød, rug, grovt
+   [Vit A:0.0 RAE, Vit B2:0.3 mg, Vit B6:0.3 mg, Ca:55.0 mg, Fe:3.6 mg, Zn:3.3 mg, Se:1.0 µg]
+31. Quinoa, tørr
+   [Vit A:4.0 RAE, Vit B2:0.29 mg, Vit B6:0.16 mg, Ca:40.0 mg, Fe:3.6 mg, Zn:2.7 mg, Se:2.0 µg]
+32. Tomatpuré, hermetisk
+   [Vit A:146.0 RAE, Vit B2:0.12 mg, Vit B6:0.28 mg, Ca:45.0 mg, Fe:4.5 mg, Zn:0.6 mg, Se:1.0 µg]
+33. Squashfrø, gresskarfrø
+   [Vit A:0.0 RAE, Vit B2:0.16 mg, Vit B6:0.1 mg, Ca:73.0 mg, Fe:7.4 mg, Zn:5.0 mg, Se:11.0 µg]
+34. Mandler
+   [Vit A:0.0 RAE, Vit B2:0.94 mg, Vit B6:0.13 mg, Ca:260.0 mg, Fe:3.4 mg, Zn:3.3 mg, Se:2.0 µg]
+35. Tomatpuré
+   [Vit A:146.0 RAE, Vit B2:0.12 mg, Vit B6:0.28 mg, Ca:45.0 mg, Fe:4.5 mg, Zn:0.6 mg, Se:1.0 µg]
+36. Popcorn, uten fett
+   [Vit A:10.0 RAE, Vit B2:0.28 mg, Vit B6:0.25 mg, Ca:10.0 mg, Fe:2.7 mg, Zn:3.4 mg, Se:10.0 µg]
+37. Macadamianøtter
+   [Vit A:0.0 RAE, Vit B2:0.16 mg, Vit B6:0.28 mg, Ca:85.0 mg, Fe:3.7 mg, Zn:1.3 mg, Se:4.0 µg]
+38. Sorghum
+   [Vit A:0.0 RAE, Vit B2:0.15 mg, Vit B6:0.75 mg, Ca:28.0 mg, Fe:4.4 mg, Zn:2.0 mg, Se:5.0 µg]
+39. Spinat, rå
+   [Vit A:378.0 RAE, Vit B2:0.17 mg, Vit B6:0.28 mg, Ca:83.0 mg, Fe:2.1 mg, Zn:0.9 mg, Se:0.0 µg]
+40. Edamamebønner, soyabønner, fryst
+   [Vit A:14.0 RAE, Vit B2:0.27 mg, Vit B6:0.14 mg, Ca:60.0 mg, Fe:2.1 mg, Zn:1.3 mg, Se:2.0 µg]
+41. Hasselnøtter
+   [Vit A:1.0 RAE, Vit B2:0.38 mg, Vit B6:0.21 mg, Ca:140.0 mg, Fe:2.7 mg, Zn:2.0 mg, Se:1.0 µg]
+42. Kornblanding, med bær, Go'dag Blåbærmüsli
+   [Vit A:4.0 RAE, Vit B2:0.1 mg, Vit B6:0.18 mg, Ca:28.0 mg, Fe:4.2 mg, Zn:1.7 mg, Se:5.0 µg]
+43. Ris, villris, rå
+   [Vit A:1.0 RAE, Vit B2:0.26 mg, Vit B6:0.39 mg, Ca:21.0 mg, Fe:2.0 mg, Zn:6.0 mg, Se:3.0 µg]
+44. Hveteflak ristet, med hvetekli, All-bran Regular
+   [Vit A:0.0 RAE, Vit B2:0.12 mg, Vit B6:0.23 mg, Ca:43.0 mg, Fe:4.1 mg, Zn:2.6 mg, Se:4.0 µg]
+45. Kornblanding,  4-korn
+   [Vit A:0.0 RAE, Vit B2:0.13 mg, Vit B6:0.22 mg, Ca:33.0 mg, Fe:3.5 mg, Zn:2.3 mg, Se:5.0 µg]
+46. Pasta, fullkorn, tørr
+   [Vit A:0.0 RAE, Vit B2:0.06 mg, Vit B6:0.31 mg, Ca:39.0 mg, Fe:3.6 mg, Zn:2.8 mg, Se:15.0 µg]
+47. Havrekli
+   [Vit A:0.0 RAE, Vit B2:0.22 mg, Vit B6:0.17 mg, Ca:58.0 mg, Fe:5.0 mg, Zn:3.1 mg, Se:1.0 µg]
+48. Miso, fermentert soyabønnepasta
+   [Vit A:2.0 RAE, Vit B2:0.1 mg, Vit B6:0.3 mg, Ca:68.0 mg, Fe:1.7 mg, Zn:3.3 mg, Se:1.0 µg]
+49. Hvetemel, sammalt, fint/grovt
+   [Vit A:0.0 RAE, Vit B2:0.08 mg, Vit B6:0.19 mg, Ca:31.0 mg, Fe:4.1 mg, Zn:2.7 mg, Se:10.0 µg]
+50. Kornblanding, med frukt, Go'dag Fruktmüsli
+   [Vit A:2.0 RAE, Vit B2:0.09 mg, Vit B6:0.2 mg, Ca:35.0 mg, Fe:3.0 mg, Zn:1.7 mg, Se:4.0 µg]
+51. Knekkebrød, rug, Husman Sport
+   [Vit A:0.0 RAE, Vit B2:0.1 mg, Vit B6:0.31 mg, Ca:55.0 mg, Fe:3.4 mg, Zn:3.1 mg, Se:1.0 µg]
+52. Hvete, helkorn
+   [Vit A:0.0 RAE, Vit B2:0.08 mg, Vit B6:0.19 mg, Ca:31.0 mg, Fe:4.1 mg, Zn:2.7 mg, Se:10.0 µg]
+53. Kokosmasse, usøtet
+   [Vit A:0.0 RAE, Vit B2:0.1 mg, Vit B6:0.3 mg, Ca:26.0 mg, Fe:3.3 mg, Zn:2.0 mg, Se:19.0 µg]
+54. Havreputer, Havrefras
+   [Vit A:0.0 RAE, Vit B2:0.1 mg, Vit B6:0.15 mg, Ca:59.0 mg, Fe:4.7 mg, Zn:3.3 mg, Se:3.0 µg]
+55. Valnøtter
+   [Vit A:0.0 RAE, Vit B2:0.18 mg, Vit B6:0.19 mg, Ca:84.0 mg, Fe:2.9 mg, Zn:2.7 mg, Se:1.0 µg]
+56. Perlespelt
+   [Vit A:4.0 RAE, Vit B2:0.07 mg, Vit B6:0.18 mg, Ca:24.0 mg, Fe:2.5 mg, Zn:3.3 mg, Se:10.0 µg]
+57. Kornblanding, med frukt og nøtter, Go'dag Energimüsli
+   [Vit A:1.0 RAE, Vit B2:0.1 mg, Vit B6:0.26 mg, Ca:54.0 mg, Fe:3.0 mg, Zn:2.0 mg, Se:1.0 µg]
+58. Flatbrød, hjemmebakt type, kjøpt
+   [Vit A:0.0 RAE, Vit B2:0.15 mg, Vit B6:0.16 mg, Ca:33.0 mg, Fe:3.1 mg, Zn:2.7 mg, Se:4.0 µg]
+59. Hvetebrikker, Weetabix
+   [Vit A:0.0 RAE, Vit B2:0.15 mg, Vit B6:0.33 mg, Ca:28.0 mg, Fe:4.3 mg, Zn:1.5 mg, Se:3.0 µg]
+60. Peanøttsmør
+   [Vit A:0.0 RAE, Vit B2:0.09 mg, Vit B6:0.58 mg, Ca:37.0 mg, Fe:2.1 mg, Zn:3.0 mg, Se:3.0 µg]
+61. Havremel
+   [Vit A:0.0 RAE, Vit B2:0.13 mg, Vit B6:0.2 mg, Ca:53.0 mg, Fe:5.0 mg, Zn:3.1 mg, Se:1.0 µg]
+62. Hvetekli, ristet, All-Bran plus
+   [Vit A:0.0 RAE, Vit B2:0.54 mg, Vit B6:0.91 mg, Ca:35.0 mg, Fe:5.3 mg, Zn:2.4 mg, Se:0.0 µg]
+63. Rugmel, sammalt
+   [Vit A:0.0 RAE, Vit B2:0.18 mg, Vit B6:0.18 mg, Ca:24.0 mg, Fe:2.9 mg, Zn:2.2 mg, Se:6.0 µg]
+64. Pumpernikkel, fullkornsbrød, ekstra grovt (75-100 %), kjøpt
+   [Vit A:0.0 RAE, Vit B2:0.15 mg, Vit B6:0.18 mg, Ca:77.0 mg, Fe:3.0 mg, Zn:2.3 mg, Se:1.0 µg]
+65. Cashewnøtter
+   [Vit A:0.0 RAE, Vit B2:0.06 mg, Vit B6:0.42 mg, Ca:37.0 mg, Fe:6.7 mg, Zn:5.8 mg, Se:2.0 µg]
+66. Løk, sprøstekt
+   [Vit A:3.0 RAE, Vit B2:0.11 mg, Vit B6:0.39 mg, Ca:42.0 mg, Fe:1.2 mg, Zn:0.9 mg, Se:2.0 µg]
+67. Hummus
+   [Vit A:14.0 RAE, Vit B2:0.04 mg, Vit B6:0.13 mg, Ca:78.0 mg, Fe:1.8 mg, Zn:1.0 mg, Se:17.0 µg]
+68. Knekkebrød, rug, Ryvita
+   [Vit A:0.0 RAE, Vit B2:0.1 mg, Vit B6:0.19 mg, Ca:44.0 mg, Fe:2.3 mg, Zn:1.7 mg, Se:5.0 µg]
+69. Mandelmel
+   [Vit A:0.0 RAE, Vit B2:0.78 mg, Vit B6:0.11 mg, Ca:270.0 mg, Fe:3.6 mg, Zn:3.0 mg, Se:0.0 µg]
+70. Hirse, hele korn
+   [Vit A:0.0 RAE, Vit B2:0.38 mg, Vit B6:0.75 mg, Ca:10.0 mg, Fe:4.8 mg, Zn:3.4 mg, Se:2.0 µg]
+71. Frokostkorn, Jippi Frokosttall
+   [Vit A:1.0 RAE, Vit B2:0.07 mg, Vit B6:0.14 mg, Ca:27.0 mg, Fe:3.0 mg, Zn:2.3 mg, Se:7.0 µg]
+72. Puffet havre, Havrenøtter
+   [Vit A:0.0 RAE, Vit B2:0.07 mg, Vit B6:0.46 mg, Ca:37.0 mg, Fe:3.5 mg, Zn:2.3 mg, Se:1.0 µg]
+73. Knekkebrød, rug, Husman
+   [Vit A:0.0 RAE, Vit B2:0.16 mg, Vit B6:0.21 mg, Ca:39.0 mg, Fe:2.2 mg, Zn:2.0 mg, Se:2.0 µg]
+74. Ris, polert, parboiled, langkornet, tørr
+   [Vit A:0.0 RAE, Vit B2:0.05 mg, Vit B6:0.51 mg, Ca:178.0 mg, Fe:1.3 mg, Zn:0.8 mg, Se:7.0 µg]
+75. Havreputer, Jippi Havreputer
+   [Vit A:0.0 RAE, Vit B2:0.11 mg, Vit B6:0.19 mg, Ca:41.0 mg, Fe:3.8 mg, Zn:2.4 mg, Se:1.0 µg]
+76. Paranøtter
+   [Vit A:0.0 RAE, Vit B2:0.04 mg, Vit B6:0.1 mg, Ca:160.0 mg, Fe:2.4 mg, Zn:4.1 mg, Se:1090.0 µg]
+77. Havregryn, lettkokte/store
+   [Vit A:0.0 RAE, Vit B2:0.08 mg, Vit B6:0.24 mg, Ca:40.0 mg, Fe:3.7 mg, Zn:2.5 mg, Se:1.0 µg]
+78. Byggmel
+   [Vit A:0.0 RAE, Vit B2:0.13 mg, Vit B6:0.3 mg, Ca:28.0 mg, Fe:2.2 mg, Zn:1.5 mg, Se:3.0 µg]
+79. Havreflak, Havreflakes
+   [Vit A:0.0 RAE, Vit B2:0.07 mg, Vit B6:0.22 mg, Ca:41.0 mg, Fe:4.8 mg, Zn:2.9 mg, Se:1.0 µg]
+80. Frokostkorn, sjokoladesmak, Nestlé Nesquick
+   [Vit A:0.0 RAE, Vit B2:0.07 mg, Vit B6:0.1 mg, Ca:170.0 mg, Fe:4.8 mg, Zn:1.6 mg, Se:3.0 µg]
+81. Brød, ekstra grovt (75-100 %), kjøpt, Grovt & Godt Grovbrød
+   [Vit A:0.0 RAE, Vit B2:0.11 mg, Vit B6:0.16 mg, Ca:47.0 mg, Fe:2.2 mg, Zn:1.9 mg, Se:2.0 µg]
+82. Kornblanding, müsli med frukt, nøtter, søtet
+   [Vit A:0.0 RAE, Vit B2:0.59 mg, Vit B6:0.15 mg, Ca:25.0 mg, Fe:3.0 mg, Zn:2.2 mg, Se:1.0 µg]
+83. Quinoa, rød, tørr
+   [Vit A:4.0 RAE, Vit B2:0.2 mg, Vit B6:0.14 mg, Ca:32.0 mg, Fe:3.3 mg, Zn:2.3 mg, Se:0.0 µg]
+84. Pinjekjerner
+   [Vit A:2.0 RAE, Vit B2:0.26 mg, Vit B6:0.22 mg, Ca:10.0 mg, Fe:4.9 mg, Zn:5.8 mg, Se:1.0 µg]
+85. Wasabirot, rå
+   [Vit A:2.0 RAE, Vit B2:0.11 mg, Vit B6:0.27 mg, Ca:128.0 mg, Fe:1.0 mg, Zn:1.6 mg, Se:0.0 µg]
+86. Brønnkarse, rå
+   [Vit A:132.0 RAE, Vit B2:0.06 mg, Vit B6:0.23 mg, Ca:138.0 mg, Fe:0.7 mg, Zn:0.5 mg, Se:2.0 µg]
+87. Mel, glutenfritt, grovt, Semper
+   [Vit A:0.0 RAE, Vit B2:0.56 mg, Vit B6:0.21 mg, Ca:34.0 mg, Fe:8.5 mg, Zn:0.4 mg, Se:2.0 µg]
+88. Mel, glutenfritt, Jyttemel Original
+   [Vit A:0.0 RAE, Vit B2:0.09 mg, Vit B6:0.21 mg, Ca:37.0 mg, Fe:2.5 mg, Zn:1.5 mg, Se:3.0 µg]
+89. Byggryn
+   [Vit A:0.0 RAE, Vit B2:0.11 mg, Vit B6:0.33 mg, Ca:23.0 mg, Fe:2.2 mg, Zn:1.3 mg, Se:3.0 µg]
+90. Flatbrød, kjøpt
+   [Vit A:0.0 RAE, Vit B2:0.12 mg, Vit B6:0.13 mg, Ca:31.0 mg, Fe:1.7 mg, Zn:2.2 mg, Se:4.0 µg]
+91. Papaya, tørket
+   [Vit A:567.0 RAE, Vit B2:0.17 mg, Vit B6:0.11 mg, Ca:135.0 mg, Fe:0.6 mg, Zn:0.4 mg, Se:1.0 µg]
+92. Bokhvetemel
+   [Vit A:0.0 RAE, Vit B2:0.45 mg, Vit B6:0.24 mg, Ca:15.0 mg, Fe:2.3 mg, Zn:1.4 mg, Se:3.0 µg]
+93. Perlebygg
+   [Vit A:4.0 RAE, Vit B2:0.06 mg, Vit B6:0.19 mg, Ca:23.0 mg, Fe:1.9 mg, Zn:2.0 mg, Se:3.0 µg]
+94. Chapatti, med sammalt mel
+   [Vit A:0.0 RAE, Vit B2:0.06 mg, Vit B6:0.14 mg, Ca:23.0 mg, Fe:3.1 mg, Zn:2.0 mg, Se:7.0 µg]
+95. Puffet hvete, Hvetenøtter
+   [Vit A:0.0 RAE, Vit B2:0.06 mg, Vit B6:0.44 mg, Ca:23.0 mg, Fe:3.1 mg, Zn:2.4 mg, Se:1.0 µg]
+96. Havreringer, Nestlé Cheerios
+   [Vit A:0.0 RAE, Vit B2:0.09 mg, Vit B6:0.06 mg, Ca:57.0 mg, Fe:3.4 mg, Zn:2.1 mg, Se:5.0 µg]
+97. Bokhvete, hele korn
+   [Vit A:0.0 RAE, Vit B2:0.14 mg, Vit B6:0.29 mg, Ca:15.0 mg, Fe:2.1 mg, Zn:1.6 mg, Se:3.0 µg]
+98. Daddel, tørket
+   [Vit A:3.0 RAE, Vit B2:0.09 mg, Vit B6:0.19 mg, Ca:45.0 mg, Fe:1.3 mg, Zn:0.4 mg, Se:3.0 µg]
+99. Kastanjer, ristede
+   [Vit A:1.0 RAE, Vit B2:0.18 mg, Vit B6:0.5 mg, Ca:29.0 mg, Fe:0.9 mg, Zn:0.6 mg, Se:1.0 µg]
+100. Spinat, fryst, rå
+   [Vit A:242.0 RAE, Vit B2:0.1 mg, Vit B6:0.1 mg, Ca:120.0 mg, Fe:0.8 mg, Zn:0.8 mg, Se:0.0 µg]
