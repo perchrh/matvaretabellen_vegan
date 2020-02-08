@@ -90,6 +90,8 @@ filteredFoods = foods.findAll {
             safeGetValue(it["C22:5n-3Dokosapentaensyre"].value) == 0 &&
             safeGetValue(it["C22:6n-3Dokosaheksaensyre"].value) == 0 &&
             !it["langualCodes"].contains("B3749") && // supplements
+            !it["langualCodes"].contains("H0175") && // fizzy drinks
+            !it["langualCodes"].contains("C0294") && // fruit, peel only
             !it["langualCodes"].contains("A0113") && // herbs or spices
             !it["langualCodes"].contains("A0857") && // herbs or spices
             !it["langualCodes"].contains("A0134") && // Salt or salt substitute (US CFR)
@@ -114,7 +116,8 @@ filteredFoods = foods.findAll {
             !it["langualCodes"].contains("H0185") && // egg yolk added
             !it["langualCodes"].contains("H0205") && // egg white added
             !it["langualCodes"].contains("H0186") && // egg added
-            !(it["langualCodes"].contains("A0831") /* pulse product */ && it["langualCodes"].contains("J0116") /* dried */  && !it["langualCodes"].contains("H0259") /* rehydrated */  && !it["langualCodes"].contains("G0014") /* boiled */ ) &&
+            !(it["langualCodes"].contains("A0831") /* pulse product */ && it["langualCodes"].contains("J0116") /* dried */  && !it["langualCodes"].contains("H0259") /* rehydrated */  ) &&
+            !(it["langualCodes"].contains("A0814") /* rice or grain product */ && it["langualCodes"].contains("H0138") /* dried */  && !it["langualCodes"].contains("H0259") /* rehydrated */  ) &&
 
             !it.name.toLowerCase().contains("honning") // langualCodes missing on some products
 
