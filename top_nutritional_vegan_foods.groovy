@@ -16,6 +16,7 @@ def data = slurper.parseFile(new File("data.json"), "UTF-8")
 def List<HashMap> nutrients = data.nutrients
 def nutrientNames = nutrients.collect { it.name }
 
+
 def interestingNutrients = ["Vitamin A", "Beta-karoten", "Vitamin E", "Tiamin", "Riboflavin", "Niacin", "Vitamin B6", "Folat", "Vitamin C", "Kalsium", "Jern", "Natrium", "Kalium", "Magnesium", "Sink", "Selen", "Kopper", "Fosfor", "Jod",
                             "C12:0",
                             "C14:0",
@@ -45,7 +46,6 @@ def interestingFoodGroups = [
         "Diverse retter, produkter og ingredienser",
         "Mel",
         "Gryn, ris, pasta",
-        "Gryn, ris, pasta, råvare",
         "Gryn, ris, pasta, tilberedt",
         "Kornblanding, frokostkorn",
         "Brødvarer, hjemmebakt",
@@ -77,6 +77,7 @@ def interestingFoodGroups = [
         "Diverse ingredienser",
         "Pulver, tørr vare"
 ]
+
 interestingFoodGroupDefinitions = data.foodgroups.findAll { interestingFoodGroups.contains(it.name) }
 interestingFoodGroupIds = interestingFoodGroupDefinitions.collect { it.id }
 filteredFoods = foods.findAll {
@@ -88,6 +89,7 @@ filteredFoods = foods.findAll {
             safeGetValue(it["C20:5n-3Eikosapentaensyre"].value) == 0 &&
             safeGetValue(it["C22:5n-3Dokosapentaensyre"].value) == 0 &&
             safeGetValue(it["C22:6n-3Dokosaheksaensyre"].value) == 0 &&
+            !it["langualCodes"].contains("B3749") && // supplements
             !it["langualCodes"].contains("A0113") && // herbs or spices
             !it["langualCodes"].contains("A0857") && // herbs or spices
             !it["langualCodes"].contains("A0134") && // Salt or salt substitute (US CFR)
@@ -112,13 +114,13 @@ filteredFoods = foods.findAll {
             !it["langualCodes"].contains("H0185") && // egg yolk added
             !it["langualCodes"].contains("H0205") && // egg white added
             !it["langualCodes"].contains("H0186") && // egg added
-            !(it["langualCodes"].contains("A0831") /* pulse product */ && it["langualCodes"].contains("J0116") /* dried */  && !it["langualCodes"].contains("C0155") /* seeds */ ) &&
+            !(it["langualCodes"].contains("A0831") /* pulse product */ && it["langualCodes"].contains("J0116") /* dried */  && !it["langualCodes"].contains("H0259") /* rehydrated */  && !it["langualCodes"].contains("G0014") /* boiled */ ) &&
 
             !it.name.toLowerCase().contains("honning") // langualCodes missing on some products
 
 }
 
-// todo loop over data.lingual_codes, get all codes relating to lacto-ovo, honey etc
+// todo loop over data.lingual_codes, get all codes relating to lacto-ovo, honey, animal products etc
 
 filteredFoodsNames = filteredFoods.collect { it.name }
 println("Fant ${filteredFoods.size()} veganske matvarer på matvaretabellen.no\n")
